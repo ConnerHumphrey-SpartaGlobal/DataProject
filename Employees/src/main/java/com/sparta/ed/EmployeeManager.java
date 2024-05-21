@@ -27,4 +27,23 @@ public class EmployeeManager {
         return employeesString;
     }
 
+    public static Employee createEmployee(String line){
+        Employee createdEmployee;
+        String[] lineSplit = line.replace(" ", "").split(",");
+        String empID = lineSplit[0];
+        String title = lineSplit[1];
+        String firstName = lineSplit[2];
+        String middleName = lineSplit[3];
+        String lastName = lineSplit[4];
+        String gender = lineSplit[5];
+        String email = lineSplit[6];
+        String dob = lineSplit[7];
+        String dateJoined = lineSplit[8];
+        String salary = lineSplit[9];
+
+        createdEmployee = new Employee(empID, title,firstName,middleName,lastName,gender,email,dob,dateJoined,salary);
+        return createdEmployee;
+
+    }
+
 }
