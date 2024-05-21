@@ -9,10 +9,10 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class EmployeeManager {
-    public static List<String> employeesString = new ArrayList<>();
-    public static List<Employee> employees = new ArrayList<>();
+    private List<String> employeesString = new ArrayList<>();
+    private List<Employee> employees = new ArrayList<>();
 
-    public static List<String> readEmployeesFromFile(String fileName){
+    public List<String> readEmployeesFromFile(String fileName){
         Path thePath = Paths.get(fileName);
         String employee;
 
@@ -28,7 +28,7 @@ public class EmployeeManager {
         return employeesString;
     }
 
-    public static Employee createEmployee(String line){
+    public Employee createEmployee(String line){
         Employee createdEmployee;
         String[] lineSplit = line.replace(" ", "").split(",");
         String empID = lineSplit[0];
@@ -46,9 +46,9 @@ public class EmployeeManager {
         return createdEmployee;
     }
 
-    public static List<Employee> readEmployees(String fileName){
-        employeesString = readEmployeesFromFile(fileName);
-        for(String employee: employeesString) {
+    public List<Employee> readEmployees(String fileName){
+        List<String> empString = readEmployeesFromFile(fileName);
+        for(String employee: empString) {
             employees.add(createEmployee(employee));
         }
         return employees;
