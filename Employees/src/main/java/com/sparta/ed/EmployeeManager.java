@@ -47,20 +47,10 @@ public class EmployeeManager {
     }
 
     public static List<Employee> readEmployees(String fileName){
-        Path thePath = Paths.get(fileName);
-        String line;
-        try(BufferedReader reader = Files.newBufferedReader(thePath)){
-            //Skipping first line
-            reader.readLine();
-            while((line = reader.readLine()) != null){
-                employees.add(createEmployee(line));
-            }
-        } catch (IOException ex){
-            ex.printStackTrace();
+        employeesString = readEmployeesFromFile(fileName);
+        for(String employee: employeesString) {
+            employees.add(createEmployee(employee));
         }
         return employees;
-//        employeesString = readEmployeesFromFile(fileName);
-//        employees = createEmployee(employeesString);
-//        return employees;
     }
 }
