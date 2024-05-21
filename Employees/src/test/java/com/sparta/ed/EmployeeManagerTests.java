@@ -6,8 +6,13 @@ import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
+import java.lang.reflect.Array;
+import java.util.ArrayList;
+import java.util.List;
+
 public class EmployeeManagerTests {
     public String myPath = "src/main/resources/employees.csv";
+    public List<Employee> employees;
 
 
     @Test
@@ -25,4 +30,26 @@ public class EmployeeManagerTests {
         Assertions.assertEquals(expectedEmployee.toString(), actualEmployee.toString());
     }
 
+    @Test
+    @DisplayName("readEmployees - correct size of arraylist")
+    void readEmployeesSizeOfArrayTest(){
+        Assertions.assertEquals(10000, EmployeeManager.readEmployees(myPath).size());
+    }
+
+    @Test
+    @DisplayName("readEmployees - correct first employee")
+    void readEmployeesCorrectFirstEmployee(){
+        employees = EmployeeManager.readEmployees(myPath);
+        Employee expectedEmployee = new Employee("198429",	"Mrs.","Serafina", "I", "Bumgarner","F",	"serafina.bumgarner@exxonmobil.com","9/21/1982",	"02/01/2008","69294");
+        Employee firstEmployee = employees.get(0);
+        Assertions.assertEquals(expectedEmployee.toString(), firstEmployee.toString());
+    }
+    @Test
+    @DisplayName("readEmployees - correct last employee")
+    void readEmployeesCorrectLastEmployee(){
+        employees = EmployeeManager.readEmployees(myPath);
+        Employee expectedEmployee = new Employee("133641","Mr.","Chas","F","Hurdle","M","chas.hurdle@gmail.com","4/20/1995","5/28/2016","45102");
+        Employee firstEmployee = employees.get(employees.size()-1);
+        Assertions.assertEquals(expectedEmployee.toString(), firstEmployee.toString());
+    }
 }

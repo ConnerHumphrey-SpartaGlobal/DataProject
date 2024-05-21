@@ -10,6 +10,7 @@ import java.util.List;
 
 public class EmployeeManager {
     public static List<String> employeesString = new ArrayList<>();
+    public static List<Employee> employees = new ArrayList<>();
 
     public static List<String> readEmployeesFromFile(String fileName){
         Path thePath = Paths.get(fileName);
@@ -43,7 +44,23 @@ public class EmployeeManager {
 
         createdEmployee = new Employee(empID, title,firstName,middleName,lastName,gender,email,dob,dateJoined,salary);
         return createdEmployee;
-
     }
 
+    public static List<Employee> readEmployees(String fileName){
+        Path thePath = Paths.get(fileName);
+        String line;
+        try(BufferedReader reader = Files.newBufferedReader(thePath)){
+            //Skipping first line
+            reader.readLine();
+            while((line = reader.readLine()) != null){
+                employees.add(createEmployee(line));
+            }
+        } catch (IOException ex){
+            ex.printStackTrace();
+        }
+        return employees;
+//        employeesString = readEmployeesFromFile(fileName);
+//        employees = createEmployee(employeesString);
+//        return employees;
+    }
 }
