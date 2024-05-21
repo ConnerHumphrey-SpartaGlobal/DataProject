@@ -11,9 +11,18 @@ public class EmployeeManagerTests {
 
 
     @Test
-    @DisplayName("test test")
+    @DisplayName("Ensuring the array given out by readEmployeesFromFile is the correct size given the employee csv")
     void employeeManagerSizeOfArrayTest(){
         Assertions.assertEquals(10000, EmployeeManager.readEmployeesFromFile(myPath).size());
+    }
+
+    @Test
+    @DisplayName("createEmployee test ensuring employee is created properly given 198429,\t\"Mrs.\",\"Serafina\", 'I', \"Bumgarner\",'F',\t\"serafina.bumgarner@exxonmobil.com\",\"9/21/1982\",\t\"2/1/2008\",69294 as input")
+    void createEmployeeTestGivenAboveInput(){
+        Employee expectedEmployee = new Employee("198429",	"Mrs.","Serafina", "I", "Bumgarner","F",	"serafina.bumgarner@exxonmobil.com","9/21/1982",	"2/1/2008","69294");
+        Employee actualEmployee = EmployeeManager.createEmployee("198429,Mrs.,Serafina,I,Bumgarner,F,serafina.bumgarner@exxonmobil.com,9/21/1982,2/1/2008,69294");
+
+        Assertions.assertEquals(expectedEmployee.toString(), actualEmployee.toString());
     }
 
 }

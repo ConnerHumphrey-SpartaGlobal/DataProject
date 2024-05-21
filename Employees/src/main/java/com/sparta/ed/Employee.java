@@ -3,16 +3,16 @@ package com.sparta.ed;
 import java.util.Date;
 
 public class Employee {
-    private int empID;
+    private String empID;
     private String title;
     private String firstName;
-    private char middleName;
+    private String middleName;
     private String lastName;
-    private char gender;
+    private String gender;
     private String email;
     private String dob;
     private String dateJoined;
-    private int salary;
+    private String salary;
 
     public String getFirstName() {
         return firstName;
@@ -22,11 +22,11 @@ public class Employee {
         this.firstName = firstName;
     }
 
-    public char getMiddleName() {
+    public String getMiddleName() {
         return middleName;
     }
 
-    public void setMiddleName(char middleName) {
+    public void setMiddleName(String middleName) {
         this.middleName = middleName;
     }
 
@@ -46,11 +46,11 @@ public class Employee {
         this.dateJoined = dateJoined;
     }
 
-    public int getSalary() {
+    public String getSalary() {
         return salary;
     }
 
-    public void setSalary(int salary) {
+    public void setSalary(String salary) {
         this.salary = salary;
     }
 
@@ -70,11 +70,11 @@ public class Employee {
         this.email = email;
     }
 
-    public char getGender() {
+    public String getGender() {
         return gender;
     }
 
-    public void setGender(char gender) {
+    public void setGender(String gender) {
         this.gender = gender;
     }
 
@@ -86,15 +86,15 @@ public class Employee {
         this.title = title;
     }
 
-    public int getEmpID() {
+    public String getEmpID() {
         return empID;
     }
 
-    public void setEmpID(int empID) {
+    public void setEmpID(String empID) {
         this.empID = empID;
     }
 
-    public Employee(int empID, String title, String firstName, char middleName, String lastName, char gender, String email, String dob, String dateJoined, int salary) {
+    public Employee(String empID, String title, String firstName, String middleName, String lastName, String gender, String email, String dob, String dateJoined, String salary) {
         this.empID = empID;
         this.title = title;
         this.firstName = firstName;
