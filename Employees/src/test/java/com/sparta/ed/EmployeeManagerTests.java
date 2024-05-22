@@ -9,6 +9,7 @@ import org.junit.jupiter.api.Test;
 
 import java.io.IOException;
 import java.lang.reflect.Array;
+import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -64,7 +65,7 @@ public class EmployeeManagerTests {
     @DisplayName("readEmployees - correct first employee")
     void readEmployeesCorrectFirstEmployee(){
         employees = employeeManager.readEmployees(myPath);
-        Employee expectedEmployee = new Employee("198429","Mrs.","Serafina","I","Bumgarner","F","serafina.bumgarner@exxonmobil.com","9/21/1982","02/01/2008","69294");
+        Employee expectedEmployee = new Employee(198429,"Mrs.","Serafina","I","Bumgarner","F","serafina.bumgarner@exxonmobil.com","9/21/1982","02/01/2008","69294");
         Employee firstEmployee = employees.get(0);
         Assertions.assertEquals(expectedEmployee.toString(), firstEmployee.toString());
     }
@@ -72,7 +73,9 @@ public class EmployeeManagerTests {
     @DisplayName("readEmployees - correct last employee")
     void readEmployeesCorrectLastEmployee(){
         employees = employeeManager.readEmployees(myPath);
-        Employee expectedEmployee = new Employee("133641","Mr.","Chas","F","Hurdle","M","chas.hurdle@gmail.com","4/20/1995","5/28/2016","45102");
+        LocalDate dob = VariableParsing.convertStringToDate("4/20/1995");
+        LocalDate dateJoined = VariableParsing.convertStringToDate("5/28/2016");
+        Employee expectedEmployee = new Employee(133641,"Mr.","Chas","F","Hurdle","M","chas.hurdle@gmail.com",dob,dateJoined,45102);
         Employee lastEmployee = employees.get(employees.size()-1);
         Assertions.assertEquals(expectedEmployee.toString(), lastEmployee.toString());
     }
