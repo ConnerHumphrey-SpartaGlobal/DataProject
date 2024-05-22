@@ -12,7 +12,7 @@ public class EmployeeManager {
     private List<String> employeesString = new ArrayList<>();
     private List<Employee> employees = new ArrayList<>();
 
-    public List<String> readEmployeesFromFile(String fileName){
+    public List<String> readFileLines(String fileName){
         Path thePath = Paths.get(fileName);
         String employee;
 
@@ -47,7 +47,7 @@ public class EmployeeManager {
     }
 
     public List<Employee> readEmployees(String fileName){
-        readEmployeesFromFile(fileName);
+        readFileLines(fileName);
         for(String employee: employeesString) {
             employees.add(createEmployee(employee));
         }

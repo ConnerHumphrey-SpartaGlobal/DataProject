@@ -24,14 +24,14 @@ public class EmployeeManagerTests {
     @Test
     @DisplayName("Ensuring the array given out by readEmployeesFromFile is the correct size given the employee csv")
     void employeeManagerSizeOfArrayTest(){
-        Assertions.assertEquals(10000, employeeManager.readEmployeesFromFile(myPath).size());
+        Assertions.assertEquals(10000, employeeManager.readFileLines(myPath).size());
     }
 
     @Test
     @DisplayName("readEmployeesFromFile test checking the first string is what it should be using 198429,Mrs.,Serafina,I,Bumgarner,F,serafina.bumgarner@exxonmobil.com,9/21/1982,02/01/2008,69294")
     void readEmployeesFromFileFirstEmployeeTest(){
         String employee = "198429,Mrs.,Serafina,I,Bumgarner,F,serafina.bumgarner@exxonmobil.com,9/21/1982,02/01/2008,69294";
-        var list = employeeManager.readEmployeesFromFile(myPath);
+        var list = employeeManager.readFileLines(myPath);
         Assertions.assertEquals(employee, list.get(0));
     }
 
@@ -39,7 +39,7 @@ public class EmployeeManagerTests {
     @DisplayName("readEmployeesFromFile test checking the last string is what it should be using 133641,Mr.,Chas,F,Hurdle,M,chas.hurdle@gmail.com,4/20/1995,5/28/2016,45102")
     void readEmployeesFromFileLastEmployeeTest(){
         String employee = "133641,Mr.,Chas,F,Hurdle,M,chas.hurdle@gmail.com,4/20/1995,5/28/2016,45102";
-        var list = employeeManager.readEmployeesFromFile(myPath);
+        var list = employeeManager.readFileLines(myPath);
         Assertions.assertEquals(employee, list.get(list.size()-1));
     }
 
