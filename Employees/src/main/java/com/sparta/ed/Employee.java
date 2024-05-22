@@ -110,16 +110,16 @@ public class Employee {
     @Override
     public String toString() {
         return "Employee{" +
-                "empID=" + empID +
+                "empID='" + empID + '\'' +
                 ", title='" + title + '\'' +
                 ", firstName='" + firstName + '\'' +
-                ", middleName=" + middleName +
+                ", middleName='" + middleName + '\'' +
                 ", lastName='" + lastName + '\'' +
-                ", gender=" + gender +
+                ", gender='" + gender + '\'' +
                 ", email='" + email + '\'' +
-                ", dob=" + dob +
-                ", dateJoined=" + dateJoined +
-                ", salary=" + salary +
+                ", dob='" + dob + '\'' +
+                ", dateJoined='" + dateJoined + '\'' +
+                ", salary='" + salary + '\'' +
                 '}';
     }
 }

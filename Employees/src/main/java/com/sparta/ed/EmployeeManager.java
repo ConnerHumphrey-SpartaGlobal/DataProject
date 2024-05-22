@@ -43,7 +43,6 @@ public class EmployeeManager {
 
         createdEmployee = new Employee(empID, title,firstName,middleName,lastName,gender,email,dob,dateJoined,salary);
         return createdEmployee;
-
     }
 
 }
