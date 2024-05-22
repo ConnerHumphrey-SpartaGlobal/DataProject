@@ -9,13 +9,12 @@ public class VariableParsing {
         System.out.println(convertStringToDate("05/9/2022"));
     }
 
-    public static int  convertStringToInt(String employeeID){
+    public static int convertStringToInt(String employeeID){
         try{
             return Integer.parseInt(employeeID);
         }catch(NumberFormatException e){
-            throw e;
+            throw new IllegalArgumentException("Employee ID must be a number");
         }
-
     }
 
     public static LocalDate convertStringToDate (String date){
@@ -40,8 +39,7 @@ public class VariableParsing {
             return LocalDate.parse(newDate,formatter);
 
         }catch (DateTimeException e){
-            throw e;
+            throw new IllegalArgumentException("Invalid date format");
         }
-
     }
 }
