@@ -6,103 +6,105 @@ import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
+import java.time.LocalDate;
+
 
 public class EmployeeTests {
     private Employee employee;
 
     @BeforeEach
     public void setUpAll() {
-        employee = new Employee("1", "Mr.", "Conner", "A.", "Humphries", "M", "c.humphries@example.com", "01-01-2000", "21-05-2024", "50000");
+        employee = new Employee(1, "Mr.", "Conner", "A.", "Humphries", "M", "c.humphrey@example.com", LocalDate.of(1990, 1, 1), LocalDate.of(2024, 5, 22), 50000);
     }
 
     @Test
     @DisplayName("Get First Name")
-    public void testGetFirstName() {
+    public void getFirstName() {
         Assertions.assertEquals("Conner", employee.getFirstName());
     }
 
     @Test
     @DisplayName("Set First Name")
-    public void testSetFirstName() {
+    public void setFirstName() {
         employee.setFirstName("Jane");
         Assertions.assertEquals("Jane", employee.getFirstName());
     }
 
     @Test
     @DisplayName("Get Last Name")
-    public void testGetLastName() {
-        Assertions.assertEquals("Humphries", employee.getLastName());
+    public void getLastName() {
+        Assertions.assertEquals("Humphrey", employee.getLastName());
     }
 
     @Test
     @DisplayName("Set Last Name")
-    public void testSetLastName() {
+    public void setLastName() {
         employee.setLastName("Smith");
         Assertions.assertEquals("Smith", employee.getLastName());
     }
 
     @Test
     @DisplayName("Get Gender")
-    public void testGetGender() {
+    public void getGender() {
         Assertions.assertEquals("M", employee.getGender());
     }
 
     @Test
     @DisplayName("Set Gender")
-    public void testSetGender() {
+    public void setGender() {
         employee.setGender("F");
         Assertions.assertEquals("F", employee.getGender());
     }
 
     @Test
     @DisplayName("Get Email")
-    public void testGetEmail() {
-        Assertions.assertEquals("c.humphries@example.com", employee.getEmail());
+    public void getEmail() {
+        Assertions.assertEquals("c.humphrey@example.com", employee.getEmail());
     }
 
     @Test
     @DisplayName("Set Email")
-    public void testSetEmail() {
+    public void setEmail() {
         employee.setEmail("jane.doe@example.com");
         Assertions.assertEquals("jane.doe@example.com", employee.getEmail());
     }
 
     @Test
     @DisplayName("Get Date of Birth")
-    public void testGetDob() {
-        Assertions.assertEquals("01-01-2000", employee.getDob());
+    public void getDob() {
+        Assertions.assertEquals(LocalDate.of(2000,1,1), employee.getDob());
     }
 
     @Test
     @DisplayName("Set Date of Birth")
     public void testSetDob() {
-        employee.setDob("1985-12-25");
-        Assertions.assertEquals("1985-12-25", employee.getDob());
+        employee.setDob(LocalDate.of(1995,12,25));
+        Assertions.assertEquals(LocalDate.of(1995,12,25), employee.getDob());
     }
 
     @Test
     @DisplayName("Get Date Joined")
-    public void testGetDateJoined() {
-        Assertions.assertEquals("21-05-2024", employee.getDateJoined());
+    public void getDateJoined() {
+        Assertions.assertEquals(LocalDate.of(2024,5,22), employee.getDateJoined());
     }
 
     @Test
     @DisplayName("Set Date Joined")
-    public void testSetDateJoined() {
-        employee.setDateJoined("01-01-2024");
-        Assertions.assertEquals("01-01-2024", employee.getDateJoined());
+    public void setDateJoined() {
+        employee.setDateJoined(LocalDate.of(2022,1,1));
+        Assertions.assertEquals(LocalDate.of(2022,1,1), employee.getDateJoined());
     }
 
     @Test
     @DisplayName("Get Salary")
-    public void testGetSalary() {
-        Assertions.assertEquals("50000", employee.getSalary());
+    public void getSalary() {
+        Assertions.assertEquals(50000, employee.getSalary());
     }
 
     @Test
     @DisplayName("Set Salary")
-    public void testSetSalary() {
-        employee.setSalary("60000");
+    public void setSalary() {
+        employee.setSalary(60000);
         Assertions.assertEquals("60000", employee.getSalary());
     }
 
@@ -110,7 +112,7 @@ public class EmployeeTests {
     @Test
     @DisplayName("Employee ToString")
     public void testToString() {
-        String expected = "Employee{empID='1', title='Mr.', firstName='Conner', middleName='A.', lastName='Humphries', gender='M', email='c.humphries@example.com', dob='01-01-2000', dateJoined='21-05-2024', salary='50000'}";
+        String expected = "Employee{empID=1, title='Mr.', firstName='Conner', middleName='A.', lastName='Humphries', gender='M', email='c.humphrey@example.com', dob=2000-01-01, dateJoined=2024-05-22, salary=50000}";
         Assertions.assertEquals(expected, employee.toString());
     }
 }
