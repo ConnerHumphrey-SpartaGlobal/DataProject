@@ -7,12 +7,14 @@ import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
+import java.io.IOException;
 import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.List;
 
 public class EmployeeManagerTests {
     public String myPath = "src/main/resources/employees.csv";
+    public String myWrongPath = "src/main/resources/employees1.csv";
     public List<Employee> employees;
     public EmployeeManager employeeManager;
 
@@ -42,7 +44,6 @@ public class EmployeeManagerTests {
         var list = employeeManager.readFileLines(myPath);
         Assertions.assertEquals(employee, list.get(list.size()-1));
     }
-
 
     @Test
     @DisplayName("createEmployee test ensuring employee is created properly given 198429,\t\"Mrs.\",\"Serafina\", 'I', \"Bumgarner\",'F',\t\"serafina.bumgarner@exxonmobil.com\",\"9/21/1982\",\t\"2/1/2008\",69294 as input")
