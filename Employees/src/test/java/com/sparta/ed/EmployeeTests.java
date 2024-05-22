@@ -14,7 +14,7 @@ public class EmployeeTests {
 
     @BeforeEach
     public void setUpAll() {
-        employee = new Employee(1, "Mr.", "Conner", "A.", "Humphries", "M", "c.humphrey@example.com", LocalDate.of(1990, 1, 1), LocalDate.of(2024, 5, 22), 50000);
+        employee = new Employee(1, "Mr.", "Conner", "A.", "Humphrey", "M", "c.humphrey@example.com", LocalDate.of(2000, 1, 1), LocalDate.of(2024, 5, 22), 50000);
     }
 
     @Test
@@ -105,14 +105,14 @@ public class EmployeeTests {
     @DisplayName("Set Salary")
     public void setSalary() {
         employee.setSalary(60000);
-        Assertions.assertEquals("60000", employee.getSalary());
+        Assertions.assertEquals(60000, employee.getSalary());
     }
 
 
     @Test
     @DisplayName("Employee ToString")
     public void testToString() {
-        String expected = "Employee{empID=1, title='Mr.', firstName='Conner', middleName='A.', lastName='Humphries', gender='M', email='c.humphrey@example.com', dob=2000-01-01, dateJoined=2024-05-22, salary=50000}";
+        String expected = "Employee{empID=1, title='Mr.', firstName='Conner', middleName='A.', lastName='Humphrey', gender='M', email='c.humphrey@example.com', dob=2000-01-01, dateJoined=2024-05-22, salary=50000}";
         Assertions.assertEquals(expected, employee.toString());
     }
 }
