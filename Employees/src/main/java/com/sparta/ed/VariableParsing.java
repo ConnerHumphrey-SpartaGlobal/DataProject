@@ -6,13 +6,12 @@ import java.time.format.DateTimeFormatter;
 
 public class VariableParsing {
 
-    public static int  convertStringToInt(String employeeID){
+    public static int convertStringToInt(String employeeID){
         try{
             return Integer.parseInt(employeeID);
         }catch(NumberFormatException e){
-            throw e;
+            throw new IllegalArgumentException("Employee ID must be a number");
         }
-
     }
 
     public static LocalDate convertStringToDate (String date){
@@ -22,8 +21,7 @@ public class VariableParsing {
             return LocalDate.parse(date,formatter);
 
         }catch (DateTimeException e){
-            throw e;
+            throw new IllegalArgumentException("Invalid date format");
         }
-
     }
 }
