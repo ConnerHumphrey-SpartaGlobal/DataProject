@@ -12,7 +12,7 @@ Written in java and testing in JUnit
 
 ## Employee Class
 
-- Represents an employee with firleds corresponding to the columns in the .csv file
+- Represents an employee with fields corresponding to the columns in the .csv file
 
 ## EmployeeManagement Class
 
@@ -20,7 +20,7 @@ Written in java and testing in JUnit
 - Methods in this class:
   - _createEmployee_: parses a line of employee data, and returns an employee object
   - _readEmployeesFromFile_: reads the .csv file line by line and returns an ArrayList of Strings
-  - \_readEmployees: Creates an ArrayList of Employee objects from the .csv file
+  - _readEmployees_: Creates an ArrayList of Employee objects from the .csv file, using the _createEmployee_ and _readEmployeesFromFile_ methods.
 
 # Getting started
 
@@ -41,5 +41,3 @@ cd DataProject
 ```
 git checkout dev
 ```
-
-- Install dependencies
