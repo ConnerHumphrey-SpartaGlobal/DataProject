@@ -47,8 +47,8 @@ public class EmployeeManager {
     }
 
     public List<Employee> readEmployees(String fileName){
-        List<String> empString = readEmployeesFromFile(fileName);
-        for(String employee: empString) {
+        readEmployeesFromFile(fileName);
+        for(String employee: employeesString) {
             employees.add(createEmployee(employee));
         }
         return employees;
