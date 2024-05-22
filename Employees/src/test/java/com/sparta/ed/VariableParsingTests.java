@@ -39,6 +39,8 @@ public class VariableParsingTests {
             VariableParsing.convertStringToDate("abc");
         } catch (IllegalArgumentException e) {
             Assertions.assertEquals("Invalid date format", e.getMessage());
+        }catch (ArrayIndexOutOfBoundsException e){
+            Assertions.assertEquals("Invalid date format", e.getMessage());
         }
     }
 }

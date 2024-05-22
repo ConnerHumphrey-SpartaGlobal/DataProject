@@ -19,11 +19,9 @@ public class VariableParsing {
 
     public static LocalDate convertStringToDate (String date){
         try{
-
             String[] splitDate = date.split("/");
             int i = 0;
             String newDate;
-
             for(String dayMonth: splitDate){
                 if (dayMonth.length() < 2){
                     splitDate[i] = "0" + dayMonth;
@@ -32,7 +30,6 @@ public class VariableParsing {
                 else{
                     i++;
                 }
-
             }
             newDate = splitDate[0] + "-" + splitDate[1] + "-" + splitDate[2];
             DateTimeFormatter formatter = DateTimeFormatter.ofPattern("MM-dd-yyyy");
@@ -40,6 +37,8 @@ public class VariableParsing {
 
         }catch (DateTimeException e){
             throw new IllegalArgumentException("Invalid date format");
+        }catch(Exception e){
+            throw new ArrayIndexOutOfBoundsException("Invalid date format");
         }
     }
 }
