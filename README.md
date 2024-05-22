@@ -36,6 +36,8 @@ cd DataProject
 
 - Open the Employees project in IntelliJ IDEA
 
+- IntelliJ will automatically detect the Maven Project and start downloading the dependencies
+
 - Switch to the dev branch
 
 ```
