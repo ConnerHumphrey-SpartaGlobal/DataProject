@@ -73,7 +73,7 @@ public class EmployeeManagerTests {
     void readEmployeesCorrectLastEmployee(){
         employees = employeeManager.readEmployees(myPath);
         Employee expectedEmployee = new Employee("133641","Mr.","Chas","F","Hurdle","M","chas.hurdle@gmail.com","4/20/1995","5/28/2016","45102");
-        Employee firstEmployee = employees.get(employees.size()-1);
-        Assertions.assertEquals(expectedEmployee.toString(), firstEmployee.toString());
+        Employee lastEmployee = employees.get(employees.size()-1);
+        Assertions.assertEquals(expectedEmployee.toString(), lastEmployee.toString());
     }
 }

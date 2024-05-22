@@ -1,45 +1,43 @@
-Part 1 - Reading and creating objects from file
------------------------------------------------
+# Sparta Global Data Project
 
-#### Prerequisite lessons:
+The aim of this project is to use Git in a collaborative way, as well as to gain practical experience in handling files, and creating objects from file data.
 
-* FileIO
-* Collaborative Git
+This applicate reads a .csv file containing information about employees, and creates an `ArrayList` of `Employee` objects from it.
 
-In this exercise you will build a small application that reads a .csv file containing information about employees, and creates an `ArrayList` of `Employee` objects from it.
+# Tech/Framework
 
-* As a group, set up a private repo called DataProject . Invite your trainer(s) to it.
-* Create an IntelliJ project called `Employees` and add it to the `main` branch. Create a `dev` branch from the `main` branch. Make it the _default_ branch
-* Create a class, `Employee`, with fields corresponding to the Employee fields in[employees_short.csv](https://github.com/spartaglobal/JavaTestAutomation/blob/main/04_Data/DataMiniproject/employees_short.csv) file. All fields should be of type `String` for now
-* Create a class called `EmployeeCsvReader` with the following methods. Write JUnit tests for each method as described below.
+Written in java and testing in JUnit
 
-```java
-// parses a String of Employee information, and constructs and returns an Employee object from it
-public Employee createEmployee(String line) {...}
+# Project Structure
+
+## Employee Class
+
+- Represents an employee with fields corresponding to the columns in the .csv file
+
+## EmployeeManagement Class
+
+- Handles read the .csv file and creating Employee objects
+- Methods in this class:
+  - _createEmployee_: parses a line of employee data, and returns an employee object
+  - _readEmployeesFromFile_: reads the .csv file line by line and returns an ArrayList of Strings
+  - _readEmployees_: Creates an ArrayList of Employee objects from the .csv file, using the _createEmployee_ and _readEmployeesFromFile_ methods.
+
+# Getting started
+
+- Clone the repo
+
+```
+git clone https://github.com/ConnerHumphrey-SpartaGlobal/DataProject.git
 ```
 
-The JUnit test should validate that the `Employee` object contains the correct information
-
-```java
-// opens and reads a file and returns a ArrayList of Strings, one for each line
-public ArrayList<String>  readFileLines(String fileName) {...}
+```
+cd DataProject
 ```
 
-The JUnit test should validate that:
+- Open the Employees project in IntelliJ IDEA
 
-* the `ArrayList` has the correct length
-* the first String in the list contains the correct information
-* the last String in the list contains the correct information
+- Switch to the dev branch
 
-```java
-// creates an ArrayList of Employee objects from information stored in a .csv file.
-public ArrayList<Employee> readEmployees(String fileName) {...}
 ```
-
-`readEmployees` should make use of the `readFileLines` and `createEmployee` methods.
-
-The JUnit test should validate that:
-
-* the `ArrayList` has the correct length
-* the first `Employee` object in the list contains the correct information
-* the last `Employee` object in the list contains the correct information
+git checkout dev
+```
