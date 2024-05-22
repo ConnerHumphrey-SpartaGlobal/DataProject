@@ -28,6 +28,23 @@ public class EmployeeManagerTests {
     }
 
     @Test
+    @DisplayName("readEmployeesFromFile test checking the first string is what it should be using 198429,Mrs.,Serafina,I,Bumgarner,F,serafina.bumgarner@exxonmobil.com,9/21/1982,02/01/2008,69294")
+    void readEmployeesFromFileFirstEmployeeTest(){
+        String employee = "198429,Mrs.,Serafina,I,Bumgarner,F,serafina.bumgarner@exxonmobil.com,9/21/1982,02/01/2008,69294";
+        var list = employeeManager.readEmployeesFromFile(myPath);
+        Assertions.assertEquals(employee, list.get(0));
+    }
+
+    @Test
+    @DisplayName("readEmployeesFromFile test checking the last string is what it should be using 133641,Mr.,Chas,F,Hurdle,M,chas.hurdle@gmail.com,4/20/1995,5/28/2016,45102")
+    void readEmployeesFromFileLastEmployeeTest(){
+        String employee = "133641,Mr.,Chas,F,Hurdle,M,chas.hurdle@gmail.com,4/20/1995,5/28/2016,45102";
+        var list = employeeManager.readEmployeesFromFile(myPath);
+        Assertions.assertEquals(employee, list.get(list.size()-1));
+    }
+
+
+    @Test
     @DisplayName("createEmployee test ensuring employee is created properly given 198429,\t\"Mrs.\",\"Serafina\", 'I', \"Bumgarner\",'F',\t\"serafina.bumgarner@exxonmobil.com\",\"9/21/1982\",\t\"2/1/2008\",69294 as input")
     void createEmployeeTestGivenAboveInput(){
         Employee expectedEmployee = new Employee("198429","Mrs.","Serafina","I", "Bumgarner","F",	"serafina.bumgarner@exxonmobil.com","9/21/1982","2/1/2008","69294");
