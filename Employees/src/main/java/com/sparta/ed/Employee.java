@@ -4,12 +4,6 @@ import java.time.LocalDate;
 import java.util.Date;
 
 public class Employee {
-    public static void main(String[] args) {
-        LocalDate dob = VariableParsing.convertStringToDate("9/21/1982");
-        LocalDate dateJoined = VariableParsing.convertStringToDate("2/1/2008");
-        Employee expectedEmployee = new Employee(198429,"Mrs.","Serafina","I", "Bumgarner","F",	"serafina.bumgarner@exxonmobil.com",dob,dateJoined,69294);
-        System.out.println(expectedEmployee.toString());
-    }
     private int empID;
     private String title;
     private String firstName;
