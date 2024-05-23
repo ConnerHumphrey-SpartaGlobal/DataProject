@@ -1,7 +1,28 @@
 package com.sparta.ed;
 
+import java.time.LocalDate;
+
 public class VariableValidation {
 
+    public static boolean validateEmployee(String employee){
+        String[] lineSplit = employee.replace(" ", "").split(",");
+        String empID = lineSplit[0];
+        String title = lineSplit[1];
+        String firstName = lineSplit[2];
+        String middleName = lineSplit[3];
+        String lastName = lineSplit[4];
+        String gender = lineSplit[5];
+        String email = lineSplit[6];
+        String dob = lineSplit[7];
+        String dateJoined = lineSplit[8];
+        String salary = lineSplit[9];
+
+        return (validateID(empID) && validatePrefix(title)
+                && validateFirstName(firstName) && validateInitial(middleName)
+                && validateLastName(lastName) && validateGender(gender)
+                && validateEMail(email) && validateDob(dob)
+                && validateJoiningDate(dateJoined) && validateSalary(salary));
+    }
 
     public static boolean validateID(String empID){
         String iDRegex = "[0-9]{6}";
