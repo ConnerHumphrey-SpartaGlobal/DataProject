@@ -1,18 +1,19 @@
 package com.sparta.ed;
 
+import java.time.LocalDate;
 import java.util.Date;
 
 public class Employee {
-    private String empID;
+    private int empID;
     private String title;
     private String firstName;
     private String middleName;
     private String lastName;
     private String gender;
     private String email;
-    private String dob;
-    private String dateJoined;
-    private String salary;
+    private LocalDate dob;
+    private LocalDate dateJoined;
+    private int salary;
 
     public String getFirstName() {
         return firstName;
@@ -38,27 +39,27 @@ public class Employee {
         this.lastName = lastName;
     }
 
-    public String getDateJoined() {
+    public LocalDate getDateJoined() {
         return dateJoined;
     }
 
-    public void setDateJoined(String dateJoined) {
+    public void setDateJoined(LocalDate dateJoined) {
         this.dateJoined = dateJoined;
     }
 
-    public String getSalary() {
+    public int getSalary() {
         return salary;
     }
 
-    public void setSalary(String salary) {
+    public void setSalary(int salary) {
         this.salary = salary;
     }
 
-    public String getDob() {
+    public LocalDate getDob() {
         return dob;
     }
 
-    public void setDob(String dob) {
+    public void setDob(LocalDate dob) {
         this.dob = dob;
     }
 
@@ -86,15 +87,15 @@ public class Employee {
         this.title = title;
     }
 
-    public String getEmpID() {
+    public int getEmpID() {
         return empID;
     }
 
-    public void setEmpID(String empID) {
+    public void setEmpID(int empID) {
         this.empID = empID;
     }
 
-    public Employee(String empID, String title, String firstName, String middleName, String lastName, String gender, String email, String dob, String dateJoined, String salary) {
+    public Employee(int empID, String title, String firstName, String middleName, String lastName, String gender, String email, LocalDate dob, LocalDate dateJoined, int salary) {
         this.empID = empID;
         this.title = title;
         this.firstName = firstName;
@@ -110,16 +111,16 @@ public class Employee {
     @Override
     public String toString() {
         return "Employee{" +
-                "empID='" + empID + '\'' +
+                "empID=" + empID +
                 ", title='" + title + '\'' +
                 ", firstName='" + firstName + '\'' +
                 ", middleName='" + middleName + '\'' +
                 ", lastName='" + lastName + '\'' +
                 ", gender='" + gender + '\'' +
                 ", email='" + email + '\'' +
-                ", dob='" + dob + '\'' +
-                ", dateJoined='" + dateJoined + '\'' +
-                ", salary='" + salary + '\'' +
+                ", dob=" + dob +
+                ", dateJoined=" + dateJoined +
+                ", salary=" + salary +
                 '}';
     }
 }
