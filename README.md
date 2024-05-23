@@ -22,6 +22,25 @@ Written in java and testing in JUnit
   - _readEmployeesFromFile_: reads the .csv file line by line and returns an ArrayList of Strings
   - _readEmployees_: Creates an ArrayList of Employee objects from the .csv file, using the _createEmployee_ and _readEmployeesFromFile_ methods.
 
+# Part 2 - Data Parsing
+
+The objective is to convert the fields in the _Employee_ class to use more appropriate data stypes instead of String.
+
+We will need to write methods for these type conversions, and call them in the _EmployeeManager_. These conversion methods will throw an exception if the data format is not compatible.
+
+## Implementation
+
+- Update the Employee Class. Fields such as _empID_ will now be an int type and _dob_ and _dateJoined_ to LocalDate
+
+- Implement Conversion Methods. This is separated into a _VariableParsing_ class and consists of the methods:
+
+  - convertStringToInt(String employeeID) - converts String to int
+  - onvertStringToDate - converts String to LocalDate
+
+- Update _EmployeeManager_. We can now use the methods in the _VariableParsing_ to convert data types when we _createEmployee_
+
+- Write new and update unit tests
+
 # Getting started
 
 - Clone the repo
