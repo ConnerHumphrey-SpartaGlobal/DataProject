@@ -1,5 +1,7 @@
 package com.sparta.ed;
 
+
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.nio.file.Files;
@@ -10,7 +12,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class EmployeeManager {
+
     private List<String> employeesString = new ArrayList<>();
+    public List<String> faultyEmployees = new ArrayList<>();
     private List<Employee> employees = new ArrayList<>();
 
     public List<String> readFileLines(String fileName){
@@ -21,7 +25,15 @@ public class EmployeeManager {
             //Skipping first line
             reader.readLine();
             while((employee = reader.readLine()) != null){
-                employeesString.add(employee);
+
+                if (VariableValidation.validateEmployee(employee)){
+                    employeesString.add(employee);
+                }
+                else{
+                    faultyEmployees.add(employee);
+
+                }
+
             }
         }catch(IOException e){
             e.printStackTrace();
@@ -53,5 +65,9 @@ public class EmployeeManager {
             employees.add(createEmployee(employee));
         }
         return employees;
+    }
+
+    public List<String> getFaultyEmployees() {
+        return faultyEmployees;
     }
 }
