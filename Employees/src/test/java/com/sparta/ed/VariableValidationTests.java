@@ -24,7 +24,7 @@ public class VariableValidationTests {
     }
 
     @ParameterizedTest
-    @ValueSource(strings = {"john.doe@email.com", "john&jane@email.com"})
+    @ValueSource(strings = {"john.doe@email.com", "john&jane@email.com", "juliette.rojo@yahoo.co.uk"})
     @DisplayName("Validate valid email")
     public void validEmail(String email) {
         Assertions.assertTrue(VariableValidation.validateEMail(email));
@@ -38,7 +38,7 @@ public class VariableValidationTests {
     }
 
     @ParameterizedTest
-    @ValueSource(strings = {"01/01/2000", "12/05/1990", "02/14/2010"})
+    @ValueSource(strings = {"01/01/2000", "12/05/1990", "02/14/2010", "05/08/1967"})
     @DisplayName("Validate dob")
     public void validDOB(String dob) {
         Assertions.assertTrue(VariableValidation.validateDob(dob));
@@ -52,7 +52,7 @@ public class VariableValidationTests {
     }
 
     @ParameterizedTest
-    @ValueSource(strings = {"01/01/2000", "12/05/1990", "02/14/2010"})
+    @ValueSource(strings = {"01/01/2000", "12/05/1990", "02/14/2010", "06/04/2011"})
     @DisplayName("Validate dateJoined")
     public void validDateJoined(String dateJoined) {
         Assertions.assertTrue(VariableValidation.validateJoiningDate(dateJoined));
@@ -66,7 +66,7 @@ public class VariableValidationTests {
     }
 
     @ParameterizedTest
-    @ValueSource(strings = {"50000", "210000", "30"})
+    @ValueSource(strings = {"50000", "210000", "30", "193912"})
     @DisplayName("valid salary")
     public void validSalary(String salary) {
         Assertions.assertTrue(VariableValidation.validateSalary(salary));
@@ -80,7 +80,7 @@ public class VariableValidationTests {
     }
 
     @ParameterizedTest
-    @ValueSource(strings = {"647173", "260736", "207808"})
+    @ValueSource(strings = {"647173", "260736", "207808", "178566"})
     @DisplayName("Validate valid employee ID using about inputs, expect true output")
     void validateEmployeeIDExpectingTrue(String iD){
         Assertions.assertTrue(VariableValidation.validateID(iD));
@@ -109,7 +109,7 @@ public class VariableValidationTests {
 
     @Test
     void testValidFirstName() {
-        String validFirstName = "Alice";
+        String validFirstName = "Juliette";
         Assertions.assertTrue(VariableValidation.validateFirstName(validFirstName));
     }
 
@@ -133,13 +133,13 @@ public class VariableValidationTests {
 
     @Test
     void testValidInitial() {
-        String validInitial = "A";
+        String validInitial = "M";
         Assertions.assertTrue(VariableValidation.validateInitial(validInitial));
     }
 
     @Test
     void testValidLastName() {
-        String validFirstName = "Smith";
+        String validFirstName = "Rojo";
         Assertions.assertTrue(VariableValidation.validateFirstName(validFirstName));
     }
 
@@ -147,6 +147,13 @@ public class VariableValidationTests {
     void testLastNameWithNumbers() {
         String firstNameWithNumbers = "Smith123";
         Assertions.assertFalse(VariableValidation.validateFirstName(firstNameWithNumbers));
+    }
+
+    @Test
+    @DisplayName("Overall validation check test using 178566,Mrs.,Juliette,M,Rojo,F,juliette.rojo@yahoo.co.uk,05/08/1967,06/04/2011,193912")
+    void overallValidationCheckUsingAboveEmployeeExpectedTrue(){
+        String employee = "178566,Mrs.,Juliette,M,Rojo,F,juliette.rojo@yahoo.co.uk,05/08/1967,06/04/2011,193912";
+        Assertions.assertTrue(VariableValidation.validateEmployee(employee));
     }
 
 
