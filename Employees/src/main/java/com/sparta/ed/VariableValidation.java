@@ -23,9 +23,10 @@ public class VariableValidation {
         return initial.matches(initialRegex);
 
     }
-    public static boolean validateLastName(String lastName){
+    public static boolean validateLastName(String lastName) {
         String lastNameRegex = "^[A-z]*";
         return lastNameRegex.matches(lastNameRegex);
+    }
 
     public static boolean validateGender(String gender){
         String regex = "^[FfMm]$";
