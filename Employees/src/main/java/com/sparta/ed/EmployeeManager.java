@@ -25,7 +25,7 @@ public class EmployeeManager {
 
     public EmployeeManager() {
         try {
-            FileHandler fileHandler = new FileHandler("src/main/resources/employeeErrorLog.log", true);
+            FileHandler fileHandler = new FileHandler("src/main/resources/employeeErrorLog.log");
             fileHandler.setFormatter(new SimpleFormatter());
             logger.addHandler(fileHandler);
         } catch (IllegalArgumentException | SecurityException | IOException e) {
