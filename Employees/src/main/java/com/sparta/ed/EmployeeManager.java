@@ -27,6 +27,7 @@ public class EmployeeManager {
         try {
             FileHandler fileHandler = new FileHandler("src/main/resources/employeeErrorLog.log");
             fileHandler.setFormatter(new SimpleFormatter());
+            logger.setUseParentHandlers(false);
             logger.addHandler(fileHandler);
         } catch (IllegalArgumentException | SecurityException | IOException e) {
             e.printStackTrace();
