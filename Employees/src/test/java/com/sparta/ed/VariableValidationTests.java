@@ -24,7 +24,7 @@ public class VariableValidationTests {
     }
 
     @ParameterizedTest
-    @ValueSource(strings = {"john.doe@email.com", "john&jane@email.com", "juliette.rojo@yahoo.co.uk"})
+    @ValueSource(strings = {"john.doe@email.com", "john&jane@email.com", "juliette.rojo@yahoo.co.uk", "serafina.bumgarner@exxonmobil.com"})
     @DisplayName("Validate valid email")
     public void validEmail(String email) {
         Assertions.assertTrue(VariableValidation.validateEMail(email));
@@ -38,14 +38,14 @@ public class VariableValidationTests {
     }
 
     @ParameterizedTest
-    @ValueSource(strings = {"01/01/2000", "12/05/1990", "02/14/2010", "05/08/1967"})
+    @ValueSource(strings = {"01/01/2000", "12/05/1990", "02/14/2010", "05/08/1967", "9/21/1982"})
     @DisplayName("Validate dob")
     public void validDOB(String dob) {
         Assertions.assertTrue(VariableValidation.validateDob(dob));
     }
 
     @ParameterizedTest
-    @ValueSource(strings = {"13/01/2000", "12/40/1990", "02-14-2010"})
+    @ValueSource(strings = {"13/01/2000", "12/40/1990", "2-14-2010"})
     @DisplayName("invalidate dob")
     public void invalidDOB(String dob) {
         Assertions.assertFalse(VariableValidation.validateDob(dob));
