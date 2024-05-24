@@ -101,7 +101,7 @@ public class VariableValidationTests {
     }
 
     @ParameterizedTest
-    @ValueSource(strings = {"Mr.", "Mrs.", "Dr.", "Mx." , "Prof.", "Hon."})
+    @ValueSource(strings = {"Mr.", "Mrs.", "Dr.", "Mx." , "Prof."})
     @DisplayName("Validate employee name prefix using above inputs Expecting True")
     void validateEmployeePrefixExpectingTrue(String prefix){
         Assertions.assertTrue(VariableValidation.validatePrefix(prefix));

@@ -1,0 +1,1086 @@
+May 24, 2024 9:10:15 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 223871,Drs.,Christene,O,Mattison,F,christene.mattison@gmail.com,9/14/1990,9/13/2015,177224
+May 24, 2024 9:10:15 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 368234,Drs.,Gillian,T,Winter,F,gillian.winter@gmail.com,1/17/1960,11/28/1984,103619
+May 24, 2024 9:10:15 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 787265,Prof.,Frankie,S,Owings,NULL,frankie.owings@yahoo.co.in,6/15/1993,05/10/2017,42901
+May 24, 2024 9:10:15 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 630690,Drs.,Jerilyn,J,Decker,F,jerilyn.decker@yahoo.com,8/26/1970,4/15/2014,148791
+May 24, 2024 9:10:15 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 281990,Drs.,Karima,S,Walz,F,karima.walz@sbcglobal.net,1/29/1992,9/17/2013,93153
+May 24, 2024 9:10:15 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 766077,Drs.,Tangela,A,Woody,F,tangela.woody@ntlworld.com,01/12/1966,04/02/2017,41509
+May 24, 2024 9:10:15 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 949914,Drs.,Jaunita,F,Mcmorris,F,jaunita.mcmorris@gmail.com,06/10/1972,7/29/1996,160352
+May 24, 2024 9:10:15 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 327161,Drs.,Kam,G,Hazel,F,kam.hazel@hotmail.com,5/29/1981,07/10/2012,43286
+May 24, 2024 9:10:15 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 381129,Drs.,Flavia,T,Kowalski,F,flavia.kowalski@hotmail.com,5/19/1994,6/29/2017,97912
+May 24, 2024 9:10:15 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 440411,Drs.,Nydia,D,Flake,F,nydia.flake@hotmail.com,12/18/1959,04/08/1981,123144
+May 24, 2024 9:10:15 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 362378,Drs.,Teresita,R,Virgil,F,teresita.virgil@hotmail.co.uk,7/22/1964,3/26/2000,139576
+May 24, 2024 9:10:15 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 781106,Drs.,Rosita,N,Stahl,F,rosita.stahl@hotmail.com,06/05/1987,7/27/2009,67545
+May 24, 2024 9:10:15 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 943905,Drs.,Lavonne,K,Loney,F,lavonne.loney@gmail.com,05/05/1959,9/30/1988,182513
+May 24, 2024 9:10:15 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 290293,Drs.,Jalisa,N,Hogue,F,jalisa.hogue@gmail.com,8/28/1981,03/02/2013,110556
+May 24, 2024 9:10:15 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 755919,Drs.,Renae,S,Mcknight,F,renae.mcknight@yahoo.com,1/16/1974,7/16/2004,160883
+May 24, 2024 9:10:15 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 968960,Drs.,Violette,S,Dennard,F,violette.dennard@exxonmobil.com,07/11/1984,1/23/2009,135978
+May 24, 2024 9:10:15 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 542812,Prof.,Sebastian,K,Medlock,NULL,sebastian.medlock@cox.net,12/22/1995,6/14/2017,-169926
+May 24, 2024 9:10:15 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 130953,Drs.,Karina,O,Monroy,F,karina.monroy@shell.com,03/02/1962,07/03/2003,157783
+May 24, 2024 9:10:15 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 901316,Drs.,Shu,R,Essex,F,shu.essex@gmail.com,05/04/1968,11/10/2005,163363
+May 24, 2024 9:10:15 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 955454,Drs.,Cynthia,J,Hershberger,F,cynthia.hershberger@bp.com,07/12/1970,9/29/2014,99826
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 243410,Drs.,Loris,V,Rayfield,F,loris.rayfield@gmail.com,3/14/1978,08/06/2003,103650
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 777980,Dr.,Willis,Z,Mattingly,M,willis.mattingly@yahoo.co.uk,2/15/1975,5/27/2004,-157949
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 851003,Drs.,Juana,F,Meacham,F,juana.meacham@yahoo.co.in,04/11/1958,3/30/2001,77040
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 730999,Drs.,Tristan,L,Mitchel,F,tristan.mitchel@gmail.com,04/12/1960,12/19/1995,116143
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 450715,Drs.,Millie,O,Woodyard,F,millie.woodyard@gmail.com,09/07/1968,02/06/2006,82801
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 377569,Drs.,Marietta,R,Armistead,F,marietta.armistead@exxonmobil.com,06/02/1969,02/08/2012,53424
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 234629,Drs.,Gertrud,C,Throckmorton,F,gertrud.throckmorton@aol.com,04/11/1963,04/04/2000,119052
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 725532,Drs.,Floretta,K,Salmons,F,floretta.salmons@gmail.com,4/18/1970,10/12/2002,85813
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 939153,Drs.,Ulrike,U,Timm,F,ulrike.timm@gmail.com,03/05/1985,05/10/2006,147429
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 634996,Drs.,Samella,Z,Roebuck,F,samella.roebuck@gmail.com,8/17/1995,3/18/2017,81655
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 606031,Drs.,Kallie,F,Vo,F,kallie.vo@sbcglobal.net,05/10/1968,10/06/2013,118619
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 960982,Drs.,Katrina,V,Pedraza,F,katrina.pedraza@gmail.com,10/16/1971,10/30/2007,144562
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 928478,Drs.,Tamatha,A,Born,F,tamatha.born@ntlworld.com,6/21/1975,3/14/2016,129492
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 656963,Drs.,Annetta,A,Leggett,F,annetta.leggett@gmail.com,7/14/1994,9/17/2016,117865
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 115956,Drs.,Nelida,N,Whitaker,F,nelida.whitaker@gmail.com,5/29/1959,08/06/2003,161168
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 576879,Drs.,Corliss,L,Ketchum,F,corliss.ketchum@charter.net,10/24/1991,8/25/2016,159788
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 451659,Drs.,Karlene,D,Boughton,F,karlene.boughton@shaw.ca,8/14/1983,7/28/2007,168382
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 635058,Drs.,Leonie,T,Mix,F,leonie.mix@gmail.com,01/12/1994,08/04/2016,122721
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 141483,Drs.,Porsha,K,Friedman,F,porsha.friedman@ntlworld.com,12/21/1985,5/29/2011,114464
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 672740,Drs.,Georgianne,T,Wilk,F,georgianne.wilk@hotmail.com,03/03/1959,6/14/1983,135969
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 458295,Drs.,Rana,H,Griffey,F,rana.griffey@yahoo.com,7/30/1971,11/27/2002,130201
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 518120,Drs.,Dian,J,Otto,F,dian.otto@yahoo.co.in,08/06/1963,08/01/2005,184417
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 781430,Drs.,Marvella,W,Withrow,F,marvella.withrow@shaw.ca,02/01/1978,09/01/1999,49097
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 124710,Drs.,Rheba,F,Council,F,rheba.council@aol.com,2/13/1986,5/29/2011,122245
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 745371,Drs.,Kacey,W,Cobos,F,kacey.cobos@aol.com,2/21/1974,02/03/2005,131728
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 894859,Drs.,Rena,T,Herbst,F,rena.herbst@btinternet.com,02/05/1976,9/23/1997,194427
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 725097,Drs.,Esmeralda,L,Lander,F,esmeralda.lander@gmail.com,06/03/1965,11/14/2004,134631
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 288745,Drs.,Jewell,J,Gustin,F,jewell.gustin@gmail.com,10/07/1975,01/05/2016,196401
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 269881,Drs.,Lettie,G,Doyon,F,lettie.doyon@aol.com,04/12/1970,5/23/2017,142527
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 717193,Drs.,Clair,O,Battles,F,clair.battles@gmail.com,1/16/1989,04/09/2010,133834
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 478338,Drs.,Bonita,G,Philpot,F,bonita.philpot@gmail.com,8/29/1995,1/24/2017,79941
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 249147,Drs.,Luanne,O,Mcgaha,F,luanne.mcgaha@yahoo.com,11/19/1990,07/03/2012,154410
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 665336,Drs.,Irish,O,Gaona,F,irish.gaona@gmail.com,11/15/1973,11/22/1994,97771
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 679449,Drs.,Pamela,O,Carey,F,pamela.carey@gmail.com,05/04/1981,04/06/2012,171376
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 932405,Drs.,Ida,I,Vining,F,ida.vining@gmail.com,06/04/1963,4/15/1996,93021
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 622962,Drs.,Kaley,Q,Neese,F,kaley.neese@hotmail.com,03/07/1990,12/27/2014,170525
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 117115,Drs.,Dania,B,Tolson,F,dania.tolson@hotmail.com,11/16/1981,5/30/2014,137167
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 687031,Drs.,Maybelle,Y,Branson,F,maybelle.branson@sbcglobal.net,06/12/1996,6/17/2017,92828
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 847996,Drs.,Gerda,K,Millican,F,gerda.millican@gmail.com,04/01/1965,11/19/1990,126655
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 572538,Drs.,Criselda,R,Freeman,F,criselda.freeman@hotmail.com,11/02/1960,02/04/2014,123460
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 651905,Drs.,Devora,L,Greenfield,F,devora.greenfield@gmail.com,11/13/1960,06/08/1993,110002
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 672078,Drs.,Mellisa,S,Bland,F,mellisa.bland@hotmail.co.uk,7/15/1995,3/29/2017,84072
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 884740,Drs.,Vada,I,Hartung,F,vada.hartung@aol.com,07/12/1971,4/21/2003,140203
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 830980,Drs.,Coralie,X,Bosch,F,coralie.bosch@gmail.com,11/26/1982,07/02/2006,73827
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 788884,Drs.,Adrianne,B,Terrell,F,adrianne.terrell@yahoo.com,10/05/1986,04/11/2013,64736
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 416858,Drs.,Lizette,U,Winter,F,lizette.winter@aol.com,12/01/1960,8/21/2010,189324
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 477516,Drs.,Leontine,W,Caviness,F,leontine.caviness@hotmail.com,3/16/1984,7/23/2017,189110
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 796652,Drs.,Alejandra,Y,Burnette,F,alejandra.burnette@aol.com,3/14/1989,7/22/2010,156808
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 341393,Drs.,Roslyn,G,Maria,F,roslyn.maria@hotmail.com,08/06/1974,3/14/2006,43504
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 161363,Drs.,Inocencia,K,Yanez,F,inocencia.yanez@gmail.com,09/09/1973,02/03/2017,140845
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 157513,Drs.,Elwanda,T,Gayle,F,elwanda.gayle@walmart.com,02/10/1976,03/09/2007,151617
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 326095,Drs.,Bok,B,Lacey,F,bok.lacey@gmail.com,1/27/1977,03/10/2015,106668
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 537774,Drs.,Willow,B,Nesmith,F,willow.nesmith@gmail.com,10/15/1982,03/12/2010,132300
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 352934,Drs.,Maia,W,Brooker,F,maia.brooker@gmail.com,05/05/1972,06/03/2000,113462
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 233514,Drs.,Jin,Z,Handy,F,jin.handy@walmart.com,6/24/1992,8/26/2016,84984
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 844883,Drs.,Luba,J,Cobbs,F,luba.cobbs@yahoo.com,08/03/1960,12/31/1990,83644
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 554463,Drs.,Carmelita,E,Alpert,F,carmelita.alpert@aol.com,7/26/1991,6/17/2015,123595
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 560777,Drs.,Devona,U,Warwick,F,devona.warwick@aol.com,08/05/1962,01/06/2011,166070
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 196622,Drs.,Reta,T,Baptiste,F,reta.baptiste@gmail.com,10/14/1995,11/03/2016,103529
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 827457,Drs.,Ashley,U,Tabor,F,ashley.tabor@comcast.net,4/21/1958,02/11/1987,104648
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 343895,Drs.,Corrina,W,Stlouis,F,corrina.stlouis@yahoo.com,12/07/1961,5/17/1997,75761
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 296322,Drs.,Renna,D,Lower,F,renna.lower@yahoo.com,06/12/1976,9/21/1998,63076
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 276651,Drs.,Venice,W,Goree,F,venice.goree@gmail.com,11/28/1960,09/05/1988,128638
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 181697,Drs.,Dot,P,Ulrich,F,dot.ulrich@exxonmobil.com,4/17/1983,11/19/2015,158284
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 978363,Drs.,Marissa,C,Wyant,F,marissa.wyant@exxonmobil.com,3/19/1974,02/04/2000,100151
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 520484,Drs.,Britney,B,Breeden,F,britney.breeden@yahoo.com,08/08/1985,5/20/2008,136112
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 150748,Drs.,Sherly,W,Fluellen,F,sherly.fluellen@hotmail.com,11/14/1962,11/06/1992,189179
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 220813,Drs.,Breann,Q,Henry,F,breann.henry@gmail.com,6/24/1958,8/19/1991,130882
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 297549,Drs.,Janella,I,Metz,F,janella.metz@sbcglobal.net,4/25/1964,09/07/2016,171960
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 328226,Drs.,Ellyn,T,Womble,F,ellyn.womble@earthlink.net,11/24/1977,7/18/2003,126574
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 133859,Drs.,Cheryl,E,Leger,F,cheryl.leger@microsoft.com,1/27/1978,03/10/2000,65874
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 593195,Drs.,Janean,C,Stillwell,F,janean.stillwell@gmail.com,10/02/1990,07/11/2014,163936
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 677616,Drs.,Jackeline,W,Coffin,F,jackeline.coffin@gmail.com,12/26/1971,08/11/2010,143556
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 122373,Drs.,Renee,P,Jaquez,F,renee.jaquez@aol.com,9/23/1960,8/23/2014,93328
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 273585,Drs.,Armanda,X,Scherer,F,armanda.scherer@aol.com,9/16/1978,03/10/2014,61611
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 807020,Drs.,Myesha,M,Lamb,F,myesha.lamb@yahoo.co.uk,6/30/1984,2/14/2013,133821
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 115188,Drs.,Millicent,V,Tu,F,millicent.tu@apple.com,6/25/1991,10/19/2015,181088
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 719088,Drs.,Oscar,O,Lukas,F,oscar.lukas@verizon.net,07/12/1992,6/25/2017,97534
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 359268,Drs.,Enda,H,Degroot,F,enda.degroot@gmail.com,12/26/1960,10/22/1992,130618
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 512602,Drs.,Bethel,G,Rountree,F,bethel.rountree@gmail.com,10/07/1970,3/27/2001,167759
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 594440,Drs.,Ligia,Z,Pereira,F,ligia.pereira@gmail.com,7/16/1988,07/09/2012,148252
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 863307,Drs.,John,L,Randolph,F,john.randolph@gmail.com,7/20/1971,08/12/2002,116736
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 163444,Drs.,Eusebia,F,Taft,F,eusebia.taft@yahoo.com,4/26/1976,7/25/2002,192196
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 879674,Drs.,Lekisha,G,Fleming,F,lekisha.fleming@btinternet.com,12/05/1988,5/13/2011,116098
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 227013,Drs.,Shirlene,M,Dustin,F,shirlene.dustin@ibm.com,4/17/1987,11/25/2009,165230
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 623989,Drs.,Adrian,L,Eubanks,F,adrian.eubanks@gmail.com,10/27/1959,1/28/2004,125182
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 331586,Drs.,Britney,Z,Yen,F,britney.yen@apple.com,6/19/1986,03/02/2015,71651
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 517298,Drs.,Cristine,H,Deanda,F,cristine.deanda@yahoo.com,06/11/1995,12/23/2016,50616
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 734044,Drs.,Coreen,J,Vassallo,F,coreen.vassallo@charter.net,5/17/1969,11/04/1999,100353
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 866582,Drs.,Lura,J,Cordova,F,lura.cordova@ibm.com,3/25/1958,04/12/2013,43116
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 605614,Drs.,Alaine,I,Eng,F,alaine.eng@hotmail.com,4/25/1960,1/24/2003,189541
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 819895,Drs.,Lue,U,Mccollum,F,lue.mccollum@gmail.com,08/05/1973,7/15/2002,162320
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 323535,Drs.,Tammy,B,Ginsberg,F,tammy.ginsberg@yahoo.com,10/04/1995,5/21/2017,120719
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 370088,Drs.,Thora,T,Ferree,F,thora.ferree@gmail.com,5/27/1976,08/11/2002,141667
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 891772,Drs.,Karon,N,Hudspeth,F,karon.hudspeth@ntlworld.com,2/14/1976,3/21/2004,66800
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 995968,Drs.,Isadora,H,Napier,F,isadora.napier@hotmail.com,04/12/1977,10/16/2008,48319
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 756114,Drs.,Retha,W,Reavis,F,retha.reavis@aol.com,11/07/1981,11/05/2008,76620
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 440478,Drs.,Karolyn,G,Shubert,F,karolyn.shubert@gmail.com,2/26/1961,03/04/2017,91583
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 386445,Drs.,Anna,J,Helms,F,anna.helms@gmail.com,4/18/1987,1/17/2014,71467
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 855352,Drs.,Kathaleen,U,Bogard,F,kathaleen.bogard@gmail.com,1/15/1988,11/03/2013,116280
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 842707,Drs.,Sharri,T,Yeung,F,sharri.yeung@gmail.com,8/25/1967,11/08/1989,66992
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 387647,Drs.,Shanika,D,Tejada,F,shanika.tejada@gmail.com,8/16/1958,5/23/1995,81253
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 778241,Drs.,Barbar,I,Houghton,F,barbar.houghton@yahoo.com,03/09/1960,10/05/1996,131033
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 888375,Drs.,Bev,P,Stowe,F,bev.stowe@yahoo.com,09/10/1983,5/20/2011,83455
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 403140,Drs.,Joetta,Q,Holbrook,F,joetta.holbrook@gmail.com,9/21/1984,11/16/2011,121982
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 139295,Drs.,Francine,J,Race,F,francine.race@gmail.com,3/20/1977,8/25/2011,130486
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 519448,Drs.,Sherrill,O,Rusch,F,sherrill.rusch@yahoo.co.in,6/19/1970,9/23/2002,97068
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 737168,Drs.,Elois,N,Mccloskey,F,elois.mccloskey@gmail.com,5/17/1969,12/28/2012,193660
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 985153,Drs.,Gisela,Z,Defazio,F,gisela.defazio@gmail.com,11/29/1969,08/01/1996,56500
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 622957,Drs.,Roselia,A,Lillie,F,roselia.lillie@gmail.com,04/04/1982,06/10/2017,115748
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 874818,Drs.,Nannie,J,Claiborne,F,nannie.claiborne@yahoo.com,1/28/1989,08/05/2016,129120
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 987123,Drs.,Ashly,Z,Laclair,F,ashly.laclair@gmail.com,04/04/1974,11/30/2014,160439
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 677859,Drs.,Amie,K,Agosto,F,amie.agosto@outlook.com,6/24/1991,4/20/2015,61939
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 907813,Drs.,Ronald,T,Worthington,F,ronald.worthington@comcast.net,10/05/1967,7/30/2003,186847
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 943478,Drs.,Janie,W,Stamm,F,janie.stamm@yahoo.com,11/21/1966,01/10/2000,188315
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 216198,Drs.,Bea,N,Tracey,F,bea.tracey@charter.net,03/03/1993,03/11/2016,160080
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 451705,Drs.,Stasia,Z,Abernethy,F,stasia.abernethy@gmail.com,9/18/1978,04/08/2004,126593
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 520557,Drs.,Marylin,W,Chesson,F,marylin.chesson@hotmail.com,8/28/1982,10/22/2009,58585
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 571270,Drs.,Jeri,E,Jalbert,F,jeri.jalbert@gmail.com,06/08/1982,11/26/2011,102255
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 221041,Drs.,Kimberlie,P,Ladner,F,kimberlie.ladner@shaw.ca,04/07/1958,11/16/1988,153071
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 914702,Drs.,Jannie,J,Mcglone,F,jannie.mcglone@charter.net,04/04/1985,7/16/2014,169210
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 901665,Drs.,Edythe,F,Schmid,F,edythe.schmid@bp.com,01/03/1965,09/07/1987,156599
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 376208,Drs.,Tari,E,Marks,F,tari.marks@gmail.com,02/01/1985,10/27/2013,89136
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 681370,Drs.,Zina,R,Philpot,F,zina.philpot@gmail.com,3/16/1972,05/12/2006,177864
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 356236,Drs.,Juana,V,Fairbanks,F,juana.fairbanks@hotmail.com,3/20/1988,5/14/2011,63363
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 151163,Drs.,Mi,C,Jefferies,F,mi.jefferies@gmail.com,1/15/1979,09/04/2002,174566
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 415737,Drs.,Dianna,X,Nutt,F,dianna.nutt@gmail.com,6/28/1980,4/15/2004,72325
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 778824,Drs.,Flor,M,Higgs,F,flor.higgs@walmart.com,6/24/1991,11/05/2013,100493
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 380729,Drs.,Jaime,V,Matthews,F,jaime.matthews@aol.com,4/29/1975,7/13/1997,131678
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 524461,Drs.,Cora,C,Bramlett,F,cora.bramlett@microsoft.com,2/23/1959,07/11/2011,59307
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 119308,Drs.,Joette,J,Gooch,F,joette.gooch@yahoo.com,05/06/1979,06/10/2004,149261
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 290658,Drs.,Albertine,M,Fluker,F,albertine.fluker@gmail.com,3/20/1962,12/04/1996,81461
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 467080,Drs.,Terrilyn,A,Mcmullen,F,terrilyn.mcmullen@gmail.com,1/21/1966,8/16/2005,175513
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 115623,Drs.,Francoise,E,Carder,F,francoise.carder@gmail.com,4/22/1993,04/05/2017,178198
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 742199,Drs.,Felica,Q,Moser,F,felica.moser@gmail.com,06/01/1975,8/23/2010,182446
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 565950,Drs.,Shantel,S,Jahn,F,shantel.jahn@hotmail.com,11/24/1981,11/26/2008,186503
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 733917,Drs.,Noel,H,Sallee,F,noel.sallee@aol.com,7/28/1966,2/25/2014,83416
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 183291,Drs.,Linnie,C,Mowery,F,linnie.mowery@hotmail.com,03/06/1993,11/06/2014,195095
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 565991,Drs.,Vernice,C,Mcmillian,F,vernice.mcmillian@bellsouth.net,02/09/1962,03/11/1995,48453
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 482055,Drs.,Maryetta,M,Steinberg,F,maryetta.steinberg@yahoo.com,4/13/1982,4/25/2009,194498
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 912194,Drs.,Nga,J,Manzano,F,nga.manzano@yahoo.com,5/17/1973,3/15/2006,150321
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 655859,Drs.,Na,P,Avina,F,na.avina@hotmail.com,2/20/1984,1/21/2015,138536
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 768767,Drs.,Dorcas,S,Magill,F,dorcas.magill@gmail.com,08/07/1966,7/15/1989,128820
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 561353,Drs.,Lupe,K,Adair,F,lupe.adair@gmail.com,3/23/1993,5/17/2015,100021
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 519980,Drs.,Myrna,V,Armentrout,F,myrna.armentrout@walmart.com,06/09/1983,6/18/2006,198717
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 305303,Drs.,Laurel,C,Brotherton,F,laurel.brotherton@gmail.com,05/07/1979,12/29/2010,83385
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 480260,Drs.,Youlanda,W,Wendell,F,youlanda.wendell@hotmail.co.uk,2/25/1991,07/10/2017,90873
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 655072,Drs.,Shantay,T,Bernhardt,F,shantay.bernhardt@aol.com,11/20/1976,07/10/2006,87476
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 743610,Drs.,Inga,A,Maxon,F,inga.maxon@yahoo.ca,4/18/1992,11/28/2016,64916
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 786332,Drs.,Soraya,K,Tinney,F,soraya.tinney@yahoo.co.in,02/02/1976,1/21/1998,86142
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 746026,Drs.,Caryn,H,Devine,F,caryn.devine@gmail.com,4/19/1987,8/18/2010,198487
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 887536,Drs.,America,D,Dickman,F,america.dickman@bp.com,03/06/1980,7/26/2003,151253
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 669829,Drs.,Coral,X,Culbertson,F,coral.culbertson@microsoft.com,4/24/1978,7/29/2004,149390
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 297394,Drs.,Maximina,X,Cano,F,maximina.cano@hotmail.com,2/15/1971,8/22/1994,54471
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 121832,Drs.,Ophelia,C,Riccio,F,ophelia.riccio@microsoft.com,03/03/1972,2/24/1994,113221
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 506407,Drs.,Nancie,X,Jarmon,F,nancie.jarmon@gmail.com,1/31/1993,12/15/2014,179301
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 607291,Drs.,Pura,K,Petty,F,pura.petty@yahoo.com,09/05/1958,6/20/2013,82098
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 618972,Drs.,Maryellen,B,Peterman,F,maryellen.peterman@gmail.com,7/17/1977,02/02/2016,71124
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 881767,Drs.,Junita,C,Chasteen,F,junita.chasteen@yahoo.co.in,06/02/1965,07/11/2013,48857
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 927439,Drs.,Wendy,C,Hansel,F,wendy.hansel@gmail.com,6/24/1994,05/09/2017,194178
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 899399,Drs.,Thao,C,Pagel,F,thao.pagel@yahoo.co.uk,7/30/1965,11/16/1991,112402
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 299703,Drs.,Geralyn,G,Massa,F,geralyn.massa@hotmail.com,8/27/1975,1/31/2014,132455
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 257577,Drs.,Hollis,K,Mayer,F,hollis.mayer@yahoo.com,2/23/1974,6/15/1995,79120
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 448557,Drs.,Renae,V,Henton,F,renae.henton@gmail.com,11/29/1972,01/02/2005,180108
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 512194,Drs.,Shaun,Z,Nicol,F,shaun.nicol@gmail.com,10/07/1995,11/15/2016,143799
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 818984,Drs.,Megan,Y,Sanches,F,megan.sanches@gmail.com,4/18/1991,03/05/2017,123933
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 579290,Drs.,Charlsie,H,Armentrout,F,charlsie.armentrout@gmail.com,10/29/1995,06/12/2017,197097
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 458348,Drs.,Corrina,N,Schaffner,F,corrina.schaffner@ibm.com,07/05/1976,2/14/2017,165406
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 130314,Drs.,Bobette,A,Murchison,F,bobette.murchison@btinternet.com,4/24/1970,09/11/2015,64250
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 772788,Drs.,Tarsha,I,Myrick,F,tarsha.myrick@cox.net,12/29/1959,4/28/2005,62092
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 212670,Drs.,Renna,K,Swearingen,F,renna.swearingen@btinternet.com,06/10/1978,11/11/2006,90197
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 510985,Drs.,Lorilee,L,Audette,F,lorilee.audette@gmail.com,04/11/1982,1/15/2015,80730
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 989103,Drs.,Julio,E,Leatherwood,F,julio.leatherwood@yahoo.com,12/26/1975,2/26/2004,133949
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 725700,Drs.,Bettie,V,Easterday,F,bettie.easterday@rediffmail.com,06/12/1983,12/22/2014,124701
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 559373,Drs.,Elene,T,Futrell,F,elene.futrell@yahoo.com,11/16/1968,1/24/2012,90963
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 315730,Drs.,Jeanett,G,Paynter,F,jeanett.paynter@hotmail.com,2/23/1989,01/02/2014,172596
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 371039,Drs.,Ginger,Y,Fisher,F,ginger.fisher@yahoo.com,1/27/1962,10/19/2002,162014
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 325435,Drs.,Lise,W,Whitton,F,lise.whitton@gmail.com,11/10/1964,7/31/1991,116979
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 270481,Drs.,Charmain,F,Loftin,F,charmain.loftin@msn.com,2/19/1980,7/15/2008,166687
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 251035,Drs.,Lea,N,Durfee,F,lea.durfee@gmail.com,12/02/1968,10/18/1991,137416
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 908690,Drs.,Carisa,V,Quinn,F,carisa.quinn@yahoo.com,02/01/1987,3/23/2014,98059
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 152274,Drs.,Deadra,C,Trawick,F,deadra.trawick@gmail.com,1/26/1973,12/08/2010,139033
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 158610,Drs.,Lessie,O,Holiday,F,lessie.holiday@hotmail.co.uk,03/09/1960,2/17/1991,196180
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 115166,Drs.,Chanell,K,Krohn,F,chanell.krohn@microsoft.com,6/26/1973,10/05/2001,52343
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 385290,Drs.,Corrine,S,Townes,F,corrine.townes@rediffmail.com,11/10/1976,2/15/2005,147294
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 959154,Drs.,Flossie,V,Ruckman,F,flossie.ruckman@ntlworld.com,6/17/1975,8/19/2014,90043
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 443666,Drs.,Barbar,U,Sutherland,F,barbar.sutherland@rediffmail.com,06/11/1993,2/16/2015,129657
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 686906,Drs.,Elwanda,U,Raymond,F,elwanda.raymond@rediffmail.com,5/26/1985,02/10/2014,106995
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 962451,Drs.,Tommie,O,Loomis,F,tommie.loomis@gmail.com,10/23/1972,9/27/2001,81466
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 244077,Drs.,Aleisha,R,Obryant,F,aleisha.obryant@gmail.com,04/07/1993,7/24/2016,137735
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 913012,Drs.,Maura,A,Arias,F,maura.arias@outlook.com,4/27/1986,8/28/2008,177480
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 903394,Drs.,Meredith,J,Hobby,F,meredith.hobby@gmail.com,09/05/1987,09/09/2009,125846
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 574974,Drs.,Lore,M,Word,F,lore.word@aol.com,11/23/1962,09/09/1986,194670
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 603906,Drs.,Francene,O,Ransom,F,francene.ransom@msn.com,05/06/1990,2/15/2014,129780
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 746923,Drs.,Lesley,F,Nunn,F,lesley.nunn@hotmail.com,5/17/1989,9/16/2014,194010
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 921337,Drs.,Diana,X,Hewlett,F,diana.hewlett@yahoo.com,06/09/1968,2/23/2004,176957
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 138430,Drs.,Kum,W,Yarborough,F,kum.yarborough@apple.com,08/06/1987,11/09/2013,105125
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 742704,Drs.,Sibyl,Q,Householder,F,sibyl.householder@gmail.com,03/07/1968,07/01/1992,122791
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 902662,Drs.,Adele,B,Dahl,F,adele.dahl@charter.net,9/21/1995,4/23/2017,67013
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 920507,Drs.,Angela,Y,Glover,F,angela.glover@aol.com,07/11/1965,8/30/2000,100996
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 569453,Drs.,Keira,O,Riddle,F,keira.riddle@yahoo.com,2/26/1960,4/13/2007,185444
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 206417,Drs.,Maurice,Z,Delarosa,F,maurice.delarosa@gmail.com,3/17/1972,3/31/2012,84345
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 614344,Drs.,Gertude,P,Bahr,F,gertude.bahr@cox.net,10/18/1962,4/27/2002,91512
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 522172,Drs.,Shela,Q,Pesce,F,shela.pesce@gmail.com,12/18/1987,2/20/2015,175263
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 503775,Drs.,Christie,O,Coulson,F,christie.coulson@gmail.com,12/17/1985,08/05/2011,146424
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 424060,Drs.,Shannon,W,Yee,F,shannon.yee@ibm.com,6/30/1994,7/30/2015,160709
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 511993,Drs.,Meghann,M,Mosier,F,meghann.mosier@hotmail.com,12/06/1971,7/21/2012,100696
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 634591,Drs.,Pearlie,F,Grow,F,pearlie.grow@rediffmail.com,04/08/1984,07/11/2010,82862
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 880850,Drs.,Jayne,K,Redman,F,jayne.redman@gmail.com,04/08/1977,6/17/2003,188283
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 263317,Drs.,Celsa,N,Beverly,F,celsa.beverly@gmail.com,03/03/1996,04/10/2017,76520
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 591327,Drs.,Sabine,Q,Alton,F,sabine.alton@charter.net,9/18/1995,5/30/2017,118570
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 569550,Drs.,Katherin,H,Macfarlane,F,katherin.macfarlane@gmail.com,05/05/1982,05/10/2003,171467
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 209515,Drs.,Shala,H,Creamer,F,shala.creamer@aol.com,04/06/1971,10/03/1993,62275
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 831828,Drs.,Courtney,E,Munger,F,courtney.munger@gmail.com,7/15/1992,09/12/2015,48930
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 469611,Drs.,Queenie,S,Lafond,F,queenie.lafond@comcast.net,9/25/1980,6/30/2006,60909
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 243599,Drs.,Enid,A,Humphries,F,enid.humphries@hotmail.com,9/22/1958,2/22/1995,97952
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 367184,Drs.,Deidre,O,Duck,F,deidre.duck@yahoo.com,5/17/1995,2/16/2017,199485
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 684127,Drs.,Shawnna,L,Turcotte,F,shawnna.turcotte@hotmail.com,10/24/1965,2/17/1999,73614
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 367292,Drs.,Asha,J,Alger,F,asha.alger@yahoo.ca,01/12/1992,8/23/2014,176545
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 985322,Drs.,Tiffani,Z,Harwood,F,tiffani.harwood@gmail.com,11/05/1972,3/14/1999,139822
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 566452,Drs.,Tandy,V,Oliphant,F,tandy.oliphant@hotmail.com,08/03/1973,02/12/1997,75020
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 687610,Drs.,Danelle,Q,Baur,F,danelle.baur@yahoo.co.in,4/29/1988,6/27/2015,56389
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 853246,Drs.,Delana,X,Jasper,F,delana.jasper@aol.com,9/27/1972,10/30/2009,62131
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 820093,Drs.,Magda,J,Blackstock,F,magda.blackstock@gmail.com,11/14/1994,3/28/2017,94338
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 534707,Drs.,Queenie,W,Troy,F,queenie.troy@outlook.com,4/13/1981,12/12/2006,47499
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 198690,Drs.,Kiara,H,Spring,F,kiara.spring@gmail.com,10/07/1978,08/06/2002,106079
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 703556,Drs.,Taren,S,Rife,F,taren.rife@charter.net,06/04/1981,4/17/2006,184475
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 940907,Drs.,Dominica,U,Baucom,F,dominica.baucom@yahoo.com,11/26/1989,9/20/2016,51328
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 634898,Drs.,Brett,O,Graham,F,brett.graham@aol.com,9/30/1961,2/23/1993,82302
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 935834,Drs.,Billi,D,Donegan,F,billi.donegan@rediffmail.com,08/04/1966,02/08/1998,42085
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 988697,Drs.,Divina,B,Mcdaniels,F,divina.mcdaniels@gmail.com,4/16/1971,08/09/1994,158867
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 376332,Drs.,Burma,P,Waldrup,F,burma.waldrup@gmail.com,7/30/1987,12/10/2012,72019
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 956397,Drs.,Huong,A,Millsap,F,huong.millsap@microsoft.com,2/24/1983,10/04/2010,84664
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 184988,Drs.,Noella,K,Binder,F,noella.binder@ibm.com,11/29/1965,2/28/1988,108261
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 825232,Drs.,Oma,C,Woody,F,oma.woody@gmail.com,03/02/1989,3/15/2010,192031
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 765736,Drs.,Heidi,H,Ha,F,heidi.ha@exxonmobil.com,07/05/1975,8/28/2008,51184
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 757511,Drs.,Fernande,H,Delia,F,fernande.delia@hotmail.com,04/04/1989,3/30/2015,126599
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 578226,Drs.,Georgann,F,Byrne,F,georgann.byrne@bellsouth.net,09/07/1990,01/08/2017,199728
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 197175,Drs.,Sharolyn,F,Schreiner,F,sharolyn.schreiner@verizon.net,12/15/1967,4/16/2000,105777
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 904279,Drs.,Darline,U,Becerra,F,darline.becerra@btinternet.com,10/27/1988,8/29/2016,44413
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 849287,Drs.,Suzann,E,Schmitz,F,suzann.schmitz@gmail.com,07/06/1960,09/10/2012,128441
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 873865,Drs.,Bronwyn,J,Camper,F,bronwyn.camper@gmail.com,7/22/1984,04/01/2006,46565
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 176240,Drs.,Alfreda,E,Bowens,F,alfreda.bowens@yahoo.com,12/23/1985,5/31/2016,193074
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 839667,Drs.,Katerine,F,Hamlet,F,katerine.hamlet@shaw.ca,09/08/1990,01/09/2015,189424
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 740795,Drs.,Crystal,S,Burgett,F,crystal.burgett@aol.com,9/16/1985,12/18/2009,46587
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 495849,Drs.,Dorcas,M,Eby,F,dorcas.eby@cox.net,04/09/1971,10/23/1997,104294
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 923089,Drs.,Mirella,Q,Albrecht,F,mirella.albrecht@yahoo.com,05/01/1971,6/29/2003,73463
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 466717,Drs.,Sharon,F,Hardcastle,F,sharon.hardcastle@yahoo.com,01/05/1959,8/15/2015,43113
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 598791,Drs.,Geri,P,Mcclurg,F,geri.mcclurg@gmail.com,05/07/1958,11/16/2014,67482
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 259434,Drs.,Caitlin,G,Prindle,F,caitlin.prindle@gmail.com,9/26/1958,7/17/2000,168996
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 233851,Drs.,Micheal,I,Haile,F,micheal.haile@apple.com,03/10/1991,12/25/2013,78297
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 567776,Drs.,Zora,I,Reddick,F,zora.reddick@charter.net,07/05/1960,03/12/2014,174370
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 653484,Drs.,Cira,P,Cutting,F,cira.cutting@yahoo.com,7/20/1960,11/02/1996,178030
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 356691,Drs.,Marry,L,Buie,F,marry.buie@gmail.com,5/31/1958,9/21/2001,190711
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 334623,Drs.,Roselyn,Q,Gustin,F,roselyn.gustin@gmail.com,03/09/1975,6/17/1997,107764
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 443138,Drs.,Danae,A,Delk,F,danae.delk@gmail.com,1/19/1992,03/10/2017,193908
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 716742,Drs.,Velda,W,Choe,F,velda.choe@hotmail.com,12/23/1971,11/05/1998,167942
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 675601,Drs.,Janine,M,Valente,F,janine.valente@hotmail.co.uk,4/13/1974,10/19/2010,116952
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 294114,Drs.,Sydney,D,Upton,F,sydney.upton@yahoo.com,01/03/1963,12/12/1996,145902
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 841539,Drs.,Edyth,J,Dameron,F,edyth.dameron@gmail.com,10/15/1984,11/01/2008,98462
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 529982,Drs.,Margery,J,Bonanno,F,margery.bonanno@aol.com,10/17/1957,11/14/2000,164833
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 982362,Drs.,Matthew,L,Frazier,F,matthew.frazier@hotmail.com,05/04/1984,03/04/2007,73566
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 492838,Drs.,Genia,Q,Mulkey,F,genia.mulkey@gmail.com,4/29/1962,02/01/2010,143567
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 640929,Drs.,Beatrice,H,Saenz,F,beatrice.saenz@gmail.com,10/06/1965,2/19/2012,134071
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 823085,Drs.,Luci,X,Newland,F,luci.newland@ibm.com,9/13/1982,2/20/2005,175189
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 43597,Ms.,Tommye,C,Stark,F,tommye.stark@yahoo.com,02/01/1961,3/21/2000,61029
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 756069,Drs.,Latoya,X,Donohoe,F,latoya.donohoe@walmart.com,12/29/1988,1/31/2012,199885
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 978627,Drs.,Consuela,C,Riddell,F,consuela.riddell@apple.com,2/27/1988,12/01/2014,147279
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 756023,Drs.,Denita,Q,Deegan,F,denita.deegan@walmart.com,10/03/1964,4/16/1998,86116
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 197785,Drs.,Cheyenne,H,Allmon,F,cheyenne.allmon@gmail.com,02/01/1960,04/02/1981,89871
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 3935948,Mrs.,Mandy,H,Tupper,F,mandy.tupper@microsoft.com,10/20/1992,3/27/2014,186914
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 533873,Drs.,Kristian,W,Helms,F,kristian.helms@charter.net,08/05/1969,8/25/2001,51558
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 256635,Drs.,Emelda,H,Trawick,F,emelda.trawick@hotmail.com,8/16/1985,04/01/2010,189088
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 667916,Drs.,Ashanti,O,Coney,F,ashanti.coney@yahoo.co.uk,3/27/1963,4/19/1989,176917
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 163915,Drs.,Shawnta,Z,Glover,F,shawnta.glover@hotmail.co.uk,6/17/1971,11/08/2000,60181
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 827982,Drs.,Lucy,E,Destefano,F,lucy.destefano@ntlworld.com,2/15/1969,9/27/1990,93756
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 601074,Drs.,Chelsie,B,Bolt,F,chelsie.bolt@gmail.com,2/18/1962,8/14/1997,120452
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 979395,Drs.,Chiquita,O,Willingham,F,chiquita.willingham@gmail.com,6/27/1960,6/17/1985,59213
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 210243,Drs.,Joycelyn,N,Colton,F,joycelyn.colton@gmail.com,12/24/1964,3/21/2007,51508
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 848035,Drs.,Latrina,H,Hupp,F,latrina.hupp@aol.com,12/19/1978,9/16/2008,113059
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 551588,Drs.,Jaye,G,Berg,F,jaye.berg@yahoo.co.uk,2/17/1977,5/27/2009,62706
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 751451,Drs.,Verna,K,Sayers,F,verna.sayers@microsoft.com,7/16/1995,11/25/2016,112061
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 936091,Drs.,Jannet,L,Foster,F,jannet.foster@sbcglobal.net,2/21/1970,04/07/2011,44817
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 824317,Drs.,Golda,G,Biggerstaff,F,golda.biggerstaff@walmart.com,3/26/1974,7/21/2013,143302
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 802080,Drs.,Daphne,T,Elston,F,daphne.elston@comcast.net,11/02/1978,1/17/2012,163694
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 149429,Drs.,Chantel,J,Corliss,F,chantel.corliss@aol.com,6/20/1960,09/04/2015,190533
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 711876,Drs.,Ashton,W,Pelayo,F,ashton.pelayo@gmail.com,05/02/1968,02/09/2012,170660
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 563790,Drs.,Eda,R,Buxton,F,eda.buxton@rediffmail.com,08/01/1962,03/09/2004,116416
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 667100,Drs.,Nilsa,X,Brien,F,nilsa.brien@gmail.com,11/24/1977,12/03/2015,189749
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 988477,Drs.,Tiesha,W,Mcintire,F,tiesha.mcintire@hotmail.com,3/18/1969,07/07/2009,189960
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 953514,Drs.,Abbie,F,Benson,F,abbie.benson@sbcglobal.net,5/29/1985,9/26/2009,121606
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 969825,Drs.,Chere,E,Winger,F,chere.winger@hotmail.com,09/12/1957,06/03/1996,51709
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 466150,Drs.,Lilia,H,Monahan,F,lilia.monahan@gmail.com,05/02/1984,10/14/2007,143177
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 649942,Drs.,Bell,X,Schreiner,F,bell.schreiner@hotmail.com,09/02/1967,10/18/1988,91943
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 708403,Drs.,Mika,X,Moen,F,mika.moen@verizon.net,5/19/1975,02/04/2016,47075
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 750963,Drs.,Kaleigh,X,Piper,F,kaleigh.piper@verizon.net,7/18/1968,07/09/1991,189376
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 383062,Drs.,Fatima,Q,Wenzel,F,fatima.wenzel@gmail.com,4/18/1995,7/16/2016,168026
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 547710,Drs.,Krystal,L,Strange,F,krystal.strange@gmail.com,12/06/1995,02/01/2017,41070
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 222661,Drs.,Shani,I,Colston,F,shani.colston@gmail.com,03/05/1965,12/03/1986,151195
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 316315,Drs.,Keshia,G,Towe,F,keshia.towe@hotmail.com,03/08/1986,02/04/2015,153893
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 700318,Drs.,Stephine,H,Eames,F,stephine.eames@hotmail.co.uk,7/21/1993,1/15/2017,68218
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 645938,Drs.,Whitley,U,Pell,F,whitley.pell@gmail.com,10/19/1991,2/19/2015,176330
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 744922,Drs.,Michell,P,Hathorn,F,michell.hathorn@charter.net,12/23/1988,04/05/2016,91754
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 948426,Drs.,Elvie,Z,Zeigler,F,elvie.zeigler@yahoo.com,10/01/1987,10/23/2012,165798
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 295003,Drs.,Reena,B,Martino,F,reena.martino@gmail.com,10/06/1975,10/16/2005,110359
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 980746,Drs.,Sharla,M,Funk,F,sharla.funk@gmail.com,10/11/1967,11/04/1994,68011
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 826482,Drs.,Jessika,N,Brewer,F,jessika.brewer@bp.com,03/05/1975,11/11/1997,81503
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 131560,Drs.,Roxann,C,Humes,F,roxann.humes@cox.net,11/26/1965,9/25/2000,116711
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 944321,Drs.,Olene,W,Rojas,F,olene.rojas@yahoo.com,09/03/1975,12/24/1996,185674
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 629905,Drs.,Angelo,H,Mundy,F,angelo.mundy@gmail.com,05/11/1962,10/27/2007,159938
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 324253,Drs.,Jonell,X,Ketchum,F,jonell.ketchum@aol.com,5/17/1977,4/27/2013,132245
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 311614,Drs.,Eileen,F,Posner,F,eileen.posner@bellsouth.net,11/22/1965,01/12/2006,50321
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 569858,Drs.,Latricia,M,Bolduc,F,latricia.bolduc@btinternet.com,8/24/1973,01/04/2010,92381
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 135522,Drs.,Versie,B,Funkhouser,F,versie.funkhouser@hotmail.com,10/10/1975,11/14/2008,198528
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 126086,Drs.,Jessia,O,Westerman,F,jessia.westerman@gmail.com,12/22/1978,07/07/2003,160501
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 556790,Drs.,Justine,H,Nurse,F,justine.nurse@aol.com,4/15/1992,2/14/2015,45908
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 987607,Drs.,Marlo,Y,Shepherd,F,marlo.shepherd@apple.com,12/02/1971,7/15/2009,68338
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 221446,Drs.,Reda,Y,Stanton,F,reda.stanton@aol.com,11/17/1971,9/17/2009,105937
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 998032,Drs.,Ellena,G,Hoelscher,F,ellena.hoelscher@hotmail.com,1/22/1991,2/18/2014,145713
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 375741,Drs.,Bryanna,X,Weeden,F,bryanna.weeden@msn.com,04/10/1974,08/09/2002,136689
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 843462,Drs.,Jeannette,C,Buck,F,jeannette.buck@rediffmail.com,09/02/1979,1/13/2017,48642
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 696826,Drs.,Bette,I,Pass,F,bette.pass@gmail.com,05/02/1963,04/12/2010,101798
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 569995,Drs.,Camila,M,Hoffmann,F,camila.hoffmann@hotmail.com,06/08/1991,1/20/2015,141840
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 687126,Drs.,Maire,O,Lafontaine,F,maire.lafontaine@gmail.com,12/03/1969,12/10/1994,189975
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 738024,Drs.,Staci,G,Word,F,staci.word@cox.net,11/25/1958,10/10/1998,75376
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 609589,Drs.,Gina,T,Lavergne,F,gina.lavergne@gmail.com,05/08/1986,11/28/2010,68302
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 351329,Drs.,Julieann,L,Marvel,F,julieann.marvel@ntlworld.com,04/06/1963,11/05/1992,94501
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 627921,Drs.,Allegra,X,Vallejo,F,allegra.vallejo@yahoo.com,01/09/1989,5/26/2015,107940
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 741821,Drs.,Leanora,M,Vanhouten,F,leanora.vanhouten@charter.net,12/13/1971,8/18/2010,121255
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 251367,Drs.,Kay,U,Shrum,F,kay.shrum@aol.com,07/11/1974,12/16/1995,181138
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 984844,Drs.,Jaunita,P,Echols,F,jaunita.echols@hotmail.com,10/15/1961,12/14/1983,177070
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 766825,Drs.,Darline,T,Cadena,F,darline.cadena@yahoo.com,07/02/1963,6/30/2001,198022
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 526043,Drs.,Dessie,P,Seltzer,F,dessie.seltzer@ntlworld.com,09/09/1971,8/23/2007,124348
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 628305,Drs.,Nichelle,U,Bond,F,nichelle.bond@aol.com,3/15/1987,07/08/2017,182424
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 932230,Drs.,Sonya,N,Hartung,F,sonya.hartung@aol.com,5/28/1963,1/30/1989,46778
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 634517,Drs.,Dorthey,B,Fuchs,F,dorthey.fuchs@hotmail.com,2/26/1972,10/19/2000,184099
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 677978,Drs.,Annabel,Z,Crouch,F,annabel.crouch@microsoft.com,12/30/1988,11/09/2016,62634
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 498329,Drs.,Marie,J,Straw,F,marie.straw@yahoo.co.uk,2/24/1992,8/17/2016,40404
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 719090,Drs.,Dulce,F,Obryant,F,dulce.obryant@yahoo.com,6/18/1966,06/11/2005,41225
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 639833,Drs.,Jeanine,X,Moyer,F,jeanine.moyer@msn.com,3/18/1965,5/28/1999,175427
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 529483,Drs.,Winter,F,Westover,F,winter.westover@yahoo.ca,12/08/1963,04/11/2013,137038
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 710397,Drs.,Beata,D,Bono,F,beata.bono@gmail.com,9/13/1993,03/04/2017,72337
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 856429,Drs.,Aurea,Y,Garton,F,aurea.garton@hotmail.com,08/09/1985,10/05/2014,144677
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 780631,Drs.,Verna,Z,Priddy,F,verna.priddy@aol.com,9/21/1991,2/13/2014,167001
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 752650,Drs.,Janessa,R,Whisler,F,janessa.whisler@gmail.com,9/28/1995,3/24/2017,46309
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 926444,Drs.,Charise,Z,Cheung,F,charise.cheung@hotmail.com,10/01/1969,1/15/1999,177085
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 445530,Drs.,Marlen,D,Hurt,F,marlen.hurt@gmail.com,4/23/1988,11/25/2016,195784
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 417878,Drs.,Christin,H,Ware,F,christin.ware@gmail.com,12/16/1958,06/04/1991,126246
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 162803,Drs.,Jocelyn,P,Villalobos,F,jocelyn.villalobos@yahoo.com,10/24/1984,12/12/2016,69053
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 553825,Drs.,Jeanice,S,Pollard,F,jeanice.pollard@gmail.com,06/11/1970,09/07/2000,89320
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 641656,Drs.,Janiece,X,Teter,F,janiece.teter@yahoo.co.uk,12/15/1976,2/27/2013,129241
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 206796,Drs.,Mario,V,Bushman,F,mario.bushman@gmail.com,11/22/1984,9/21/2009,108495
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 884885,Drs.,Hong,V,Reitz,F,hong.reitz@gmail.com,5/20/1970,8/13/2011,115541
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 227135,Ms.,Basilia,X,Jaime,F,basilia.jaimentlworld.com,8/29/1971,5/31/1996,108123
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 839192,Drs.,Chan,V,Timms,F,chan.timms@outlook.com,09/09/1993,10/17/2015,87395
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 799690,Hon.,Refugio,Y,Enoch,M,refugio.enochaol.com,3/20/1993,3/28/2014,169211
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 508231,Drs.,Alene,H,Welton,F,alene.welton@yahoo.com,2/27/1960,03/04/1987,59033
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 447766,Drs.,Vicenta,I,Beattie,F,vicenta.beattie@hotmail.com,7/22/1981,07/10/2010,94995
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 852646,Drs.,Frankie,M,Cone,F,frankie.cone@btinternet.com,12/18/1985,02/12/2012,92785
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 486628,Drs.,Sharee,S,Ennis,F,sharee.ennis@ibm.com,5/14/1993,11/14/2014,98914
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 714972,Drs.,Brande,S,Horvath,F,brande.horvath@gmail.com,05/05/1966,04/07/1993,113043
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 556651,Drs.,Kindra,Y,Coakley,F,kindra.coakley@yahoo.com,10/24/1981,02/06/2012,180161
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 318098,Drs.,Janey,X,Howes,F,janey.howes@aol.com,3/19/1982,6/26/2015,125747
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 566966,Drs.,Vernita,E,Elston,F,vernita.elston@hotmail.com,09/10/1969,8/29/2002,163453
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 761516,Drs.,Jamey,R,Seibel,F,jamey.seibel@gmail.com,3/23/1976,5/20/2007,99976
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 512581,Drs.,Roberto,U,Fricke,F,roberto.fricke@sbcglobal.net,6/19/1990,06/11/2014,129377
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 817188,Drs.,Joanna,S,Babin,F,joanna.babin@gmail.com,4/25/1967,5/21/1997,116608
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 948644,Drs.,Danika,L,Betts,F,danika.betts@charter.net,06/08/1966,02/10/1994,81383
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 385464,Drs.,Raina,C,Pohl,F,raina.pohl@ntlworld.com,12/16/1991,12/23/2013,107618
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 719048,Drs.,Ethelyn,W,Regan,F,ethelyn.regan@gmail.com,02/05/1966,11/02/1997,198543
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 576941,Drs.,Theressa,K,Wicks,F,theressa.wicks@hotmail.com,10/05/1976,5/14/2000,69008
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 565126,Drs.,Ava,E,Wisner,F,ava.wisner@gmail.com,01/04/1977,03/04/2014,137165
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 971294,Drs.,Floria,K,Epley,F,floria.epley@yahoo.com,8/24/1968,12/27/1990,93800
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 373957,Drs.,Ilana,O,Broadnax,F,ilana.broadnax@outlook.com,3/29/1989,08/07/2010,41875
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 781812,Drs.,Leigh,A,Boney,F,leigh.boney@hotmail.com,3/20/1960,5/25/2016,171002
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 589900,Drs.,Elene,M,Frierson,F,elene.frierson@hotmail.co.uk,10/21/1972,8/28/1997,61389
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 219154,Drs.,Alma,B,Beckman,F,alma.beckman@gmail.com,8/28/1987,12/19/2014,95983
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 523779,Drs.,Shalanda,A,Dinh,F,shalanda.dinh@gmail.com,06/06/1992,12/22/2014,105318
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 878737,Drs.,Catherin,V,Randel,F,catherin.randel@aol.com,02/08/1981,7/29/2014,140109
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 408582,Drs.,Lorraine,R,Field,F,lorraine.field@earthlink.net,9/19/1990,10/17/2016,48771
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 633207,Drs.,Talisha,U,Hasty,F,talisha.hasty@yahoo.com,08/12/1957,12/12/2003,164654
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 151847,Drs.,Chanell,F,Twomey,F,chanell.twomey@gmail.com,9/21/1992,10/04/2015,48536
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 875032,Drs.,Zena,A,Adrian,F,zena.adrian@gmail.com,03/03/1970,10/25/2014,102508
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 795135,Drs.,Liliana,L,Zendejas,F,liliana.zendejas@btinternet.com,11/24/1988,10/19/2011,190598
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 288007,Drs.,Aliza,T,Armstead,F,aliza.armstead@hotmail.com,5/29/1962,08/02/1985,159823
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 779387,Drs.,Malissa,R,Prentiss,F,malissa.prentiss@gmail.com,03/10/1963,2/26/1998,176748
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 873395,Drs.,Jenee,W,Tremblay,F,jenee.tremblay@gmail.com,8/26/1992,4/27/2016,196355
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 337520,Drs.,Delma,Q,Eberle,F,delma.eberle@hotmail.com,9/28/1960,7/21/1983,41097
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 288478,Drs.,Bella,P,Steward,F,bella.steward@gmail.com,11/04/1987,8/21/2010,87065
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 733890,Drs.,Anissa,I,Claxton,F,anissa.claxton@gmail.com,11/13/1982,01/11/2006,119153
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 436271,Drs.,Thresa,J,Arguello,F,thresa.arguello@btinternet.com,4/27/1966,01/12/2007,75103
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 805680,Drs.,Li,Y,Richert,F,li.richert@gmail.com,6/26/1961,10/06/1984,102730
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 557634,Drs.,Terica,E,Highsmith,F,terica.highsmith@aol.com,3/26/1988,05/04/2016,124742
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 270251,Drs.,Juliette,D,Hollister,F,juliette.hollister@comcast.net,6/25/1993,09/04/2015,45249
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 157868,Drs.,Roxanna,O,Stanfield,F,roxanna.stanfield@yahoo.co.in,10/25/1983,5/14/2010,52959
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 382274,Drs.,Jennell,C,Lin,F,jennell.lin@gmail.com,02/06/1978,4/27/2008,103636
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 241450,Drs.,Breanna,L,Yuan,F,breanna.yuan@gmail.com,8/26/1962,03/12/2004,174460
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 491283,Drs.,Ayana,B,Whitted,F,ayana.whitted@outlook.com,7/30/1958,02/08/2004,93160
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 557783,Drs.,Maragret,I,Ross,F,maragret.ross@walmart.com,10/22/1984,7/28/2008,123753
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 161255,Drs.,Pat,P,Walton,F,pat.walton@gmail.com,2/21/1988,10/26/2010,163785
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 129326,Drs.,Karly,S,Vaught,F,karly.vaught@apple.com,6/29/1974,08/08/2009,119707
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 246553,Drs.,Rachele,X,Neves,F,rachele.neves@gmail.com,11/06/1990,1/21/2017,50173
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 421181,Drs.,Merri,J,Tillery,F,merri.tillery@outlook.com,01/12/1958,6/14/1990,85034
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 669883,Drs.,Shiela,P,Rondeau,F,shiela.rondeau@yahoo.com,5/19/1961,06/08/1991,60142
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 285507,Drs.,Nerissa,A,Milne,F,nerissa.milne@gmail.com,11/29/1991,03/07/2015,139402
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 412874,Drs.,Cammy,T,Epstein,F,cammy.epstein@yahoo.com,11/29/1961,02/12/2001,125433
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 251020,Drs.,Elda,Y,Cottle,F,elda.cottle@gmail.com,5/30/1974,08/01/2002,81221
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 338709,Drs.,Almeta,M,Oxford,F,almeta.oxford@btinternet.com,4/23/1986,2/14/2010,48011
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 365479,Drs.,Leann,E,Ellinger,F,leann.ellinger@earthlink.net,05/04/1982,10/30/2016,156004
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 300613,Drs.,Sage,N,Knudson,F,sage.knudson@gmail.com,4/16/1995,06/01/2016,126408
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 728781,Drs.,Kaleigh,T,Enoch,F,kaleigh.enoch@hotmail.com,07/03/1983,10/19/2006,184221
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 388441,Drs.,Laquanda,V,Vaughan,F,laquanda.vaughan@gmail.com,12/13/1972,7/18/2008,44863
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 936360,Drs.,Liz,Q,Ferreira,F,liz.ferreira@ntlworld.com,12/18/1985,04/08/2014,80070
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 542675,Drs.,Phebe,L,Alva,F,phebe.alva@gmail.com,2/19/1976,8/28/2000,120467
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 385900,Drs.,Suellen,Z,Sherwin,F,suellen.sherwin@gmail.com,05/10/1989,05/04/2016,199533
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 167643,Drs.,Julene,N,Ritchie,F,julene.ritchie@comcast.net,02/03/1971,06/05/2017,183548
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 665400,Drs.,Fernanda,A,Gillenwater,F,fernanda.gillenwater@gmail.com,03/02/1996,07/09/2017,192158
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 470731,Drs.,Charmaine,O,Tarango,F,charmaine.tarango@gmail.com,02/07/1969,11/18/2000,68279
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 340892,Drs.,Ciera,K,Spradlin,F,ciera.spradlin@yahoo.com,1/25/1971,10/06/2004,122389
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 380951,Drs.,Delta,F,Phoenix,F,delta.phoenix@gmail.com,4/14/1985,02/08/2013,48720
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 358241,Drs.,Ngan,V,Clapper,F,ngan.clapper@yahoo.com,2/13/1967,05/11/1996,112259
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 776098,Drs.,Jesica,T,Mckinney,F,jesica.mckinney@ibm.com,10/13/1995,11/21/2016,78606
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 214115,Drs.,Hyon,S,Bostwick,F,hyon.bostwick@hotmail.com,05/01/1958,8/26/2001,178368
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 571132,Drs.,Gema,W,Pearl,F,gema.pearl@hotmail.co.uk,9/18/1978,10/04/2000,186137
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 638878,Drs.,Rona,X,Cribbs,F,rona.cribbs@aol.com,7/28/1992,08/01/2016,122520
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 844066,Drs.,Nida,L,Cable,F,nida.cable@aol.com,7/31/1991,12/22/2013,179444
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 574616,Drs.,Maire,M,Ferrante,F,maire.ferrante@gmail.com,3/15/1980,8/31/2013,94830
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 551144,Drs.,Henriette,O,Boehm,F,henriette.boehm@yahoo.co.in,11/09/1958,03/10/1997,77509
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 921435,Drs.,Suzan,M,Roberto,F,suzan.roberto@gmail.com,9/24/1964,11/05/2000,134826
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 682496,Drs.,Hortencia,F,Ferreira,F,hortencia.ferreira@yahoo.com,3/15/1989,12/21/2012,88897
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 228948,Drs.,Brooke,O,Higginbotham,F,brooke.higginbotham@gmail.com,6/30/1972,02/10/2011,73850
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 423892,Drs.,Moon,K,Macneil,F,moon.macneil@gmail.com,4/28/1979,1/27/2008,81830
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 453414,Drs.,Garnett,Q,Meraz,F,garnett.meraz@hotmail.co.uk,12/19/1981,11/14/2015,107828
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 540424,Drs.,Jenelle,A,Pickard,F,jenelle.pickard@btinternet.com,11/29/1977,10/30/2014,141351
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 460533,Drs.,Tisa,P,Bradfield,F,tisa.bradfield@yahoo.com,11/04/1994,1/23/2017,128660
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 215678,Drs.,Marguerite,Q,Aragon,F,marguerite.aragon@verizon.net,10/22/1992,5/16/2016,126500
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 757261,Drs.,Ludie,U,Connors,F,ludie.connors@earthlink.net,06/06/1989,01/03/2011,126778
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 869314,Drs.,Ghislaine,P,Sadowski,F,ghislaine.sadowski@hotmail.com,03/08/1994,01/04/2017,41254
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 348057,Drs.,Dyan,H,Bishop,F,dyan.bishop@msn.com,11/22/1960,10/29/2016,160690
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 305288,Drs.,Ramona,S,Gerber,F,ramona.gerber@yahoo.co.in,04/08/1990,11/13/2013,44964
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 585631,Drs.,Telma,T,Mackinnon,F,telma.mackinnon@btinternet.com,05/12/1986,3/31/2012,194948
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 128085,Drs.,Sang,P,Brito,F,sang.brito@aol.com,7/20/1996,7/24/2017,127960
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 175418,Drs.,Joeann,W,Ames,F,joeann.ames@aol.com,6/29/1969,06/12/2013,91871
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 962809,Drs.,Margherita,Z,Deangelis,F,margherita.deangelis@hotmail.co.uk,01/06/1990,03/07/2016,67234
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 136848,Drs.,Doria,K,Grice,F,doria.grice@gmail.com,01/05/1992,7/21/2017,99342
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 559893,Drs.,Dorene,I,Peavey,F,dorene.peavey@gmail.com,01/09/1960,02/04/2017,87502
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 251603,Drs.,Renate,H,Waddell,F,renate.waddell@hotmail.com,10/11/1960,06/12/2007,118826
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 116190,Drs.,Vernell,U,Finlay,F,vernell.finlay@gmail.com,04/08/1990,06/03/2015,41092
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 274620,Drs.,Eleanora,J,Zook,F,eleanora.zook@aol.com,01/03/1991,8/13/2012,151026
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 683401,Drs.,Nakia,R,Gwinn,F,nakia.gwinn@gmail.com,9/21/1977,12/01/1999,50290
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 741094,Drs.,Lakendra,Z,Standley,F,lakendra.standley@aol.com,12/16/1991,10/31/2016,185343
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 636613,Drs.,Collene,W,Sutter,F,collene.sutter@gmail.com,12/01/1974,7/22/1998,67942
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 218932,Drs.,Concepcion,L,Tackett,F,concepcion.tackett@shell.com,11/21/1968,8/22/1996,161168
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 766500,Drs.,Santa,Z,Simons,F,santa.simons@bp.com,10/12/1957,3/19/2012,130551
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 644734,Drs.,Florida,D,Ketchum,F,florida.ketchum@gmail.com,10/11/1986,5/17/2012,45078
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 721244,Drs.,Jacki,X,Egan,F,jacki.egan@hotmail.com,4/16/1981,10/17/2009,143948
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 494502,Drs.,Krystyna,M,Culp,F,krystyna.culp@aol.com,12/29/1961,4/17/2001,46581
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 592137,Drs.,Christa,Z,Sills,F,christa.sills@shell.com,07/01/1968,5/31/1990,197633
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 683688,Drs.,Despina,H,Rivera,F,despina.rivera@yahoo.com,10/01/1971,12/16/2014,134307
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 385658,Drs.,Lisha,O,Raynor,F,lisha.raynor@hotmail.com,9/15/1964,9/15/1999,60397
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 377011,Drs.,Halley,H,Alvarez,F,halley.alvarez@yahoo.co.in,12/20/1980,01/03/2015,119359
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 808566,Drs.,Adele,I,Dearman,F,adele.dearman@yahoo.com,03/10/1988,09/04/2012,40583
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 873425,Drs.,Launa,F,Lovelace,F,launa.lovelace@gmail.com,09/04/1974,6/23/2006,176897
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 612467,Drs.,Luci,I,Montenegro,F,luci.montenegro@walmart.com,5/29/1993,10/06/2014,163245
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 688717,Drs.,Benita,T,Patterson,F,benita.patterson@shaw.ca,9/20/1977,7/13/2008,179402
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 251267,Drs.,Araceli,M,Kaufmann,F,araceli.kaufmann@hotmail.com,04/07/1984,07/04/2009,60318
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 362819,Drs.,Sondra,B,Dunn,F,sondra.dunn@shell.com,8/27/1974,7/18/2000,187019
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 948251,Drs.,Toni,W,Mosley,F,toni.mosley@yahoo.com,11/04/1992,02/08/2015,82514
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 298173,Drs.,Coletta,O,Lawhorn,F,coletta.lawhorn@gmail.com,5/21/1959,09/06/1996,126330
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 435477,Drs.,Jeanie,D,Higley,F,jeanie.higley@hotmail.com,06/07/1970,02/06/2008,56679
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 342465,Drs.,Leah,F,Knowlton,F,leah.knowlton@yahoo.com,1/30/1975,12/09/2002,153414
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 877696,Drs.,Hilda,V,Stringfellow,F,hilda.stringfellow@comcast.net,8/20/1981,10/20/2012,55175
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 440074,Drs.,Brian,N,Seabrook,F,brian.seabrook@hotmail.com,4/20/1981,8/16/2004,42419
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 325278,Drs.,Josefa,C,Sorensen,F,josefa.sorensen@bp.com,12/20/1988,11/17/2014,92839
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 897426,Drs.,Leia,J,Kirk,F,leia.kirk@comcast.net,08/06/1964,6/27/1988,115143
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 154229,Drs.,Jocelyn,X,Bourque,F,jocelyn.bourque@aol.com,09/02/1980,11/09/2002,123076
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 581187,Drs.,Suzann,Q,Krebs,F,suzann.krebs@ntlworld.com,08/11/1989,5/26/2015,67448
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 552807,Drs.,Marcela,G,Riles,F,marcela.riles@gmail.com,10/16/2982,05/03/2011,72379
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 112511,Drs.,Chere,T,Nance,F,chere.nance@yahoo.com,11/08/1973,03/05/1998,179620
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 624243,Drs.,Blanch,F,Cabrera,F,blanch.cabrera@aol.com,04/09/1996,6/27/2017,62756
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 916807,Drs.,Drew,H,Derouen,F,drew.derouen@yahoo.com,05/02/1985,1/15/2009,132997
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 550361,Drs.,Taylor,Z,Wooley,F,taylor.wooley@gmail.com,01/03/1995,10/27/2016,54565
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 778168,Drs.,Jennifer,D,Goodwin,F,jennifer.goodwin@aol.com,6/24/1962,4/23/2014,162632
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 768460,Drs.,Lissette,W,Osgood,F,lissette.osgood@gmail.com,09/04/1972,05/05/1994,184195
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 113215,Drs.,Julianne,A,Florez,F,julianne.florez@yahoo.com,3/30/1975,4/19/2004,174942
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 648072,Drs.,Leeanna,H,Duren,F,leeanna.duren@gmail.com,10/18/1964,4/20/1989,48071
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 632155,Drs.,Lizette,T,Koenig,F,lizette.koenig@aol.com,1/14/1965,1/23/1998,88683
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 802013,Drs.,Kaleigh,F,Edelstein,F,kaleigh.edelstein@shaw.ca,11/11/1962,09/02/2001,199697
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 779512,Drs.,Janina,U,Renfrow,F,janina.renfrow@gmail.com,3/14/1974,04/01/2007,103322
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 216086,Drs.,Cornelia,I,Booth,F,cornelia.booth@gmail.com,08/03/1976,05/03/2011,76378
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 361045,Drs.,Bree,F,Fahey,F,bree.fahey@hotmail.com,2/20/1983,12/09/2013,198810
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 815602,Drs.,Tomasa,F,Partridge,F,tomasa.partridge@hotmail.co.uk,4/19/1984,9/21/2010,150854
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 323253,Drs.,Hyun,V,Usher,F,hyun.usher@yahoo.com,2/14/1963,06/11/2010,73705
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 607866,Drs.,Drucilla,A,Keister,F,drucilla.keister@comcast.net,8/28/1962,7/13/2000,176050
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 504023,Drs.,Shirlene,S,Farwell,F,shirlene.farwell@rediffmail.com,09/09/1958,1/19/1994,189223
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 695956,Drs.,Lisa,M,Baines,F,lisa.baines@microsoft.com,10/08/1978,12/01/2001,199435
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 173093,Drs.,Marquerite,I,Brantley,F,marquerite.brantley@gmail.com,09/04/1965,02/12/1999,163620
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 747429,Drs.,Lynell,E,Bouie,F,lynell.bouie@verizon.net,10/04/1989,04/12/2015,115087
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 660379,Drs.,Sherry,N,Bozarth,F,sherry.bozarth@hotmail.co.uk,8/27/1974,10/12/2009,178129
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 367769,Drs.,Numbers,U,Garton,F,numbers.garton@btinternet.com,8/27/1965,11/13/2011,158564
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 462773,Drs.,Abby,A,Vanbuskirk,F,abby.vanbuskirk@charter.net,05/01/1993,01/08/2015,106358
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 981377,Drs.,Randi,G,Forman,F,randi.forman@btinternet.com,02/07/1983,6/21/2008,108262
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 762579,Drs.,Idalia,X,Diego,F,idalia.diego@aol.com,04/01/1987,1/23/2012,175871
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 665824,Drs.,Laci,X,Swett,F,laci.swett@comcast.net,05/01/1994,5/25/2017,152302
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 361468,Drs.,Mamie,P,Snelling,F,mamie.snelling@yahoo.com,03/04/1980,03/06/2008,173778
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 917205,Drs.,Elanor,Z,Dyson,F,elanor.dyson@apple.com,05/03/1993,1/19/2016,81457
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 360599,Drs.,Ardath,G,Donley,F,ardath.donley@aol.com,11/15/1973,5/18/1999,46218
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 163844,Drs.,Lester,F,Ostrowski,F,lester.ostrowski@yahoo.co.in,05/06/1996,06/03/2017,108059
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 938204,Drs.,Sarita,V,Tate,F,sarita.tate@earthlink.net,8/24/1961,05/09/1995,184847
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 726791,Drs.,India,D,Gilpin,F,india.gilpin@charter.net,2/13/1961,06/05/1996,123374
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 895233,Drs.,Sophie,U,Coon,F,sophie.coon@gmail.com,12/19/1989,7/13/2016,186018
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 616923,Drs.,Kimber,B,Blue,F,kimber.blue@hotmail.com,6/22/1986,9/26/2013,75853
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 671829,Drs.,Carly,S,Kitts,F,carly.kitts@gmail.com,9/19/1967,7/29/1991,119799
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 859356,Drs.,Ilene,R,Earnest,F,ilene.earnest@gmail.com,02/10/1969,4/27/2013,104481
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 435786,Drs.,Annetta,X,Gingerich,F,annetta.gingerich@gmail.com,1/18/1973,5/28/1995,182028
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 565343,Drs.,Hyon,Q,Bristol,F,hyon.bristol@walmart.com,2/21/1990,11/24/2015,172761
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 828426,Drs.,Velia,K,Kenney,F,velia.kenney@yahoo.com,02/02/1974,06/07/1998,83396
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 510897,Drs.,Alene,X,Throckmorton,F,alene.throckmorton@outlook.com,5/28/1964,2/26/1988,73907
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 597771,Drs.,Tressie,S,Fernandes,F,tressie.fernandes@gmail.com,3/15/1986,8/15/2010,194262
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 463044,Drs.,Juana,Z,Fielding,F,juana.fielding@gmail.com,12/02/1961,04/08/1989,94190
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 121236,Drs.,Yer,Q,Croom,F,yer.croom@gmail.com,9/15/1959,01/03/2015,94960
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 500647,Drs.,Devon,N,Boldt,F,devon.boldt@yahoo.com,12/01/1970,06/11/1997,161291
+May 24, 2024 9:10:16 AM com.sparta.ed.EmployeeManager readFileLines
+WARNING: Invalid entry for: 839342,Drs.,Della,L,New,F,della.new@hotmail.com,07/08/1984,09/03/2007,121953

@@ -31,7 +31,7 @@ public class VariableValidation {
 
     }
     public static boolean validatePrefix(String title){
-        String titleRegex = "^(?:Mr|Mrs|Ms|Dr|Mx|Prof|Hon)\\.";
+        String titleRegex = "^(?:Mr|Mrs|Ms|Dr|Mx|Prof)\\.";
 
         return title.matches(titleRegex);
 

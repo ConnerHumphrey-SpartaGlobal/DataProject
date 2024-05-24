@@ -10,8 +10,10 @@ import java.nio.file.Paths;
 import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.logging.FileHandler;
 import java.util.logging.Level;
 import java.util.logging.Logger;
+import java.util.logging.SimpleFormatter;
 
 public class EmployeeManager {
 
@@ -20,6 +22,16 @@ public class EmployeeManager {
     private List<Employee> employees = new ArrayList<>();
 
     private static final Logger logger = Logger.getLogger(EmployeeManager.class.getName());
+
+    public EmployeeManager() {
+        try {
+            FileHandler fileHandler = new FileHandler("src/main/resources/employeeErrorLog.log", true);
+            fileHandler.setFormatter(new SimpleFormatter());
+            logger.addHandler(fileHandler);
+        } catch (IllegalArgumentException | SecurityException | IOException e) {
+            e.printStackTrace();
+        }
+    }
 
     public List<String> readFileLines(String fileName){
         Path thePath = Paths.get(fileName);
