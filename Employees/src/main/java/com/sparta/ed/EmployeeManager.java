@@ -10,12 +10,16 @@ import java.nio.file.Paths;
 import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 
 public class EmployeeManager {
 
     private List<String> employeesString = new ArrayList<>();
     public List<String> faultyEmployees = new ArrayList<>();
     private List<Employee> employees = new ArrayList<>();
+
+    private static final Logger logger = Logger.getLogger(EmployeeManager.class.getName());
 
     public List<String> readFileLines(String fileName){
         Path thePath = Paths.get(fileName);
@@ -31,9 +35,8 @@ public class EmployeeManager {
                 }
                 else{
                     faultyEmployees.add(employee);
-
+                    logger.log(Level.WARNING,"Invalid entry for: " + employee);
                 }
-
             }
         }catch(IOException e){
             e.printStackTrace();

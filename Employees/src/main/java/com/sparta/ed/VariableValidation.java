@@ -31,7 +31,7 @@ public class VariableValidation {
 
     }
     public static boolean validatePrefix(String title){
-        String titleRegex = "^(?:Mr|Mrs|Ms|Dr|Mx|Prof)\\.";
+        String titleRegex = "^(?:Mr|Mrs|Ms|Dr|Mx|Prof|Hon)\\.";
 
         return title.matches(titleRegex);
 
@@ -65,13 +65,13 @@ public class VariableValidation {
         return validateEmail.matches(regex);
     }
     public static boolean validateDob(String dob){
-        String regex = "^(0[1-9]|1[0-2])/(0[1-9]|[12][0-9]|3[01])/[0-9]{4}$";
+        String regex = "^(0?[1-9]|1[0-2])/(0[1-9]|[12][0-9]|3[01])/[0-9]{4}$";
 
         return dob.matches(regex);
     }
 
     public static boolean validateJoiningDate(String dob){
-        String regex = "^(0[1-9]|1[0-2])/(0[1-9]|[12][0-9]|3[01])/[0-9]{4}$";
+        String regex = "^(0?[1-9]|1[0-2])/(0[1-9]|[12][0-9]|3[01])/[0-9]{4}$";
 
         return dob.matches(regex);
     }
@@ -82,6 +82,5 @@ public class VariableValidation {
         return salary.matches(regex);
 
     }
-
 
 }
